@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1fsga_c.61.1.1      -            233 d1xtta1c.61.1.1.aln  -            198   2.1e-69  228.5   0.1   1   1   4.3e-71   2.4e-69  228.3   0.1     1   197    41   228    41   229 0.99 -
+d1ecfa1c.61.1.1      -            243 d1xtta1c.61.1.1.aln  -            198   2.7e-59  195.5   0.3   1   1   5.5e-61   3.1e-59  195.3   0.3     2   196     2   196     1   198 0.99 -
+d1tc1a_c.61.1.1      -            184 d1xtta1c.61.1.1.aln  -            198   1.1e-57  190.3   1.2   1   1   2.1e-59   1.2e-57  190.2   1.2     2   194     1   183     1   184 0.99 -
+d1qb7a_c.61.1.1      -            236 d1xtta1c.61.1.1.aln  -            198   1.8e-53  176.5   0.0   1   1   3.7e-55   2.1e-53  176.3   0.0     1   197     1   189     1   190 0.98 -
+d1dqna_c.61.1.1      -            230 d1xtta1c.61.1.1.aln  -            198   4.5e-39  129.5   0.0   1   1   9.1e-41   5.2e-39  129.3   0.0     2   196    10   205     9   207 0.99 -
+d1a3ca_c.61.1.1      -            178 d1xtta1c.61.1.1.aln  -            198   1.4e-32  108.3   2.1   1   1   2.6e-34   1.5e-32  108.2   2.1    13   192     5   177     1   178 0.95 -
+d1vdma1c.61.1.1      -            153 d1xtta1c.61.1.1.aln  -            198   2.6e-26   87.9   0.5   1   1   5.7e-28   3.2e-26   87.5   0.5     5   169     1   138     1   151 0.92 -
+d2aeea1c.61.1.1      -            208 d1xtta1c.61.1.1.aln  -            198   1.5e-24   82.1   0.0   1   1   2.9e-26   1.6e-24   82.0   0.0     8   196    13   202     6   204 0.97 -
+d1wd5a_c.61.1.1      -            208 d1xtta1c.61.1.1.aln  -            198   1.6e-23   78.8   4.0   1   1   3.4e-25   1.9e-23   78.5   4.0    22   196    32   206    17   208 0.95 -
+d1p4aa2c.61.1.1      -            202 d1xtta1c.61.1.1.aln  -            198   1.5e-21   72.3   0.1   1   1     3e-23   1.7e-21   72.1   0.1     2   169     1   168     1   194 0.95 -
+d1nula_c.61.1.1      -            150 d1xtta1c.61.1.1.aln  -            198   1.7e-18   62.4   0.0   1   1   4.9e-20   2.8e-18   61.7   0.0     6   184     1   145     1   149 0.87 -
+d1y0ba1c.61.1.1      -            191 d1xtta1c.61.1.1.aln  -            198   6.3e-16   54.0   0.2   1   1   1.2e-17   6.8e-16   53.9   0.2     9   187     3   182     1   191 0.95 -
+d1vcha1c.61.1.1      -            174 d1xtta1c.61.1.1.aln  -            198   4.3e-13   44.7   0.3   1   1     8e-15   4.5e-13   44.6   0.3    16   188     4   168     1   174 0.92 -
+d1xtta1c.61.1.1      -            215 d1xtta1c.61.1.1.aln  -            198   3.7e-09   31.9   1.1   1   1   1.1e-10   6.1e-09   31.2   0.9    37   194    67   214    59   215 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d1xtta1c.61.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d1xtta1c.61.1.1.out -E 1 hmmModels95/d1xtta1c.61.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:13 2023
+# [ok]

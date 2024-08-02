@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1c52a_a.3.1.1       -            131 d1h32b_a.3.1.1.aln   -            107   1.5e-36  120.6   0.1   1   1   1.8e-38   1.8e-36  120.3   0.1     9   107     1   110     1   110 0.99 -
+d1e29a_a.3.1.1       -            135 d1h32b_a.3.1.1.aln   -            107   2.9e-36  119.7   0.0   1   1   3.4e-38   3.3e-36  119.5   0.0     1   106    19   124    19   125 0.99 -
+d1i8oa_a.3.1.1       -            114 d1h32b_a.3.1.1.aln   -            107   3.6e-34  112.9   0.2   1   1   4.1e-36     4e-34  112.8   0.2     8   105     2   114     1   114 0.98 -
+d1gu2a_a.3.1.1       -            124 d1h32b_a.3.1.1.aln   -            107   1.4e-32  107.8   0.2   1   1   1.9e-34   1.9e-32  107.4   0.2     1   107    31   122    31   122 0.99 -
+d1dw0a_a.3.1.1       -            112 d1h32b_a.3.1.1.aln   -            107   3.3e-28   93.8   0.0   1   1   4.9e-30   4.8e-28   93.2   0.0     1   104    25   112    25   112 0.98 -
+d1c75a_a.3.1.1       -             71 d1h32b_a.3.1.1.aln   -            107   2.9e-11   39.3   0.1   1   1   3.7e-13   3.7e-11   38.9   0.1    10   105     2    71     1    71 0.96 -
+d1wvec_a.3.1.1       -             75 d1h32b_a.3.1.1.aln   -            107   3.2e-11   39.1   0.0   1   1   4.5e-13   4.4e-11   38.7   0.0     7   106     2    74     1    75 0.96 -
+d1h32b_a.3.1.1       -            138 d1h32b_a.3.1.1.aln   -            107   0.00068   15.6   0.0   1   1   1.3e-05    0.0013   14.6   0.0    18   105    41   137    36   138 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1h32b_a.3.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1h32b_a.3.1.1.out -E 1 hmmModels30/d1h32b_a.3.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:45 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1r3na1c.56.5.4      -            323 d1y0ya3c.56.5.4.aln  -            279  2.1e-107  354.0   0.0   1   1  2.9e-109  2.3e-107  353.8   0.0     2   279    13   318    12   318 0.99 -
+d1rtqa_c.56.5.4      -            291 d1y0ya3c.56.5.4.aln  -            279   5.1e-98  323.2   1.2   1   1  7.3e-100   5.8e-98  323.0   1.2     2   279    20   286    19   286 0.99 -
+d1y7ea2c.56.5.4      -            323 d1y0ya3c.56.5.4.aln  -            279     3e-94  310.8   0.3   1   1   4.3e-96   3.4e-94  310.6   0.3     1   279    12   322    12   322 1.00 -
+d1z2la1c.56.5.4      -            294 d1y0ya3c.56.5.4.aln  -            279   1.5e-93  308.5   0.0   1   1   2.2e-95   1.7e-93  308.3   0.0     4   279     1   294     1   294 1.00 -
+d1tkja_c.56.5.4      -            277 d1y0ya3c.56.5.4.aln  -            279     1e-81  269.7   0.0   1   1   1.5e-83   1.2e-81  269.5   0.0     4   278     2   276     1   277 0.98 -
+d1fnoa4c.56.5.4      -            296 d1y0ya3c.56.5.4.aln  -            279   1.8e-81  268.9   0.0   1   1   2.5e-83     2e-81  268.7   0.0     1   278     1   295     1   296 0.99 -
+d1lfwa1c.56.5.4      -            273 d1y0ya3c.56.5.4.aln  -            279   9.5e-77  253.4   0.0   1   1   1.3e-78   1.1e-76  253.2   0.0     3   278     1   272     1   273 0.99 -
+d1cg2a1c.56.5.4      -            277 d1y0ya3c.56.5.4.aln  -            279   1.7e-75  249.3   0.2   1   1   2.4e-77   1.9e-75  249.1   0.2     2   277     2   274     1   276 0.99 -
+d1vgya1c.56.5.4      -            263 d1y0ya3c.56.5.4.aln  -            279   7.5e-73  240.6   0.0   1   1     1e-74   8.3e-73  240.5   0.0     2   275     2   262     1   263 0.99 -
+d2grea2c.56.5.4      -            234 d1y0ya3c.56.5.4.aln  -            279   1.9e-55  183.5   1.0   1   1   2.7e-57   2.1e-55  183.3   1.0     6   276     1   233     1   234 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1y0ya3c.56.5.4.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1y0ya3c.56.5.4.out -E 1 hmmModels30/d1y0ya3c.56.5.4.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:52 2023
+# [ok]

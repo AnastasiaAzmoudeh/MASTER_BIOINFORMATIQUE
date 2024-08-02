@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2jhfa1b.35.1.2      -            199 d1o89a1b.35.1.2.aln  -            183   3.6e-69  227.9   0.0   1   1   5.8e-71   4.2e-69  227.7   0.0     2   180     7   198     6   199 0.99 -
+d1piwa1b.35.1.2      -            193 d1o89a1b.35.1.2.aln  -            183   3.4e-67  221.5   0.8   1   1   5.3e-69   3.8e-67  221.3   0.8     2   182     4   186     3   187 0.98 -
+d1f8fa1b.35.1.2      -            195 d1o89a1b.35.1.2.aln  -            183   4.6e-63  208.0   0.1   1   1   7.1e-65   5.1e-63  207.9   0.1     2   182     2   195     1   195 0.99 -
+d1pl8a1b.35.1.2      -            186 d1o89a1b.35.1.2.aln  -            183     2e-62  205.9   0.0   1   1   3.2e-64   2.3e-62  205.8   0.0     3   182     4   180     2   181 0.98 -
+d1kola1b.35.1.2      -            202 d1o89a1b.35.1.2.aln  -            183   7.2e-62  204.1   0.5   1   1   1.1e-63     8e-62  204.0   0.5     4   182     2   197     1   198 0.99 -
+d1h2ba1b.35.1.2      -            172 d1o89a1b.35.1.2.aln  -            183   1.7e-56  186.6   0.0   1   1   2.6e-58   1.9e-56  186.5   0.0     5   181     1   171     1   172 0.98 -
+d1jqba1b.35.1.2      -            178 d1o89a1b.35.1.2.aln  -            183   2.1e-56  186.3   0.0   1   1   3.2e-58   2.3e-56  186.2   0.0    10   182     2   177     1   178 0.98 -
+d1gu7a1b.35.1.2      -            176 d1o89a1b.35.1.2.aln  -            183   3.2e-49  162.9   0.0   1   1   6.9e-51     5e-49  162.3   0.0     2   182     1   173     1   174 0.98 -
+d1yb5a1b.35.1.2      -            151 d1o89a1b.35.1.2.aln  -            183   4.7e-41  136.3   0.0   1   1   5.5e-40   3.9e-38  126.7   0.0     3   181     2   149     1   151 0.97 -
+d2dm6a1b.35.1.2      -            148 d1o89a1b.35.1.2.aln  -            183   3.8e-31  104.0   0.0   1   1     7e-32     5e-30  100.3   0.0     2   181     4   147     3   148 0.97 -
+d1o89a1b.35.1.2      -            147 d1o89a1b.35.1.2.aln  -            183    0.0019   13.7   0.0   1   1   3.8e-05    0.0027   13.2   0.0    11    90     8    85     2    94 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1o89a1b.35.1.2.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1o89a1b.35.1.2.out -E 1 hmmModels30/d1o89a1b.35.1.2.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:47 2023
+# [ok]

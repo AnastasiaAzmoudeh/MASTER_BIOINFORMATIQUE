@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3mu7a_c.1.8.0       -            273 d2x8ra_c.1.8.0.aln   -            360   1.6e-59  197.4   0.0   1   1   4.5e-62   1.8e-59  197.2   0.0    36   349     3   272     1   273 0.98 -
+d2waga_c.1.8.0       -            217 d2x8ra_c.1.8.0.aln   -            360   4.4e-37  123.5   5.7   1   1   1.5e-39   5.8e-37  123.2   5.7    30   301     2   216     1   217 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d2x8ra_c.1.8.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d2x8ra_c.1.8.0.out -E 1 hmmModels95/d2x8ra_c.1.8.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:35 2023
+# [ok]

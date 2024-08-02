@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ohwa_c.67.1.4      -            461 d2dkja_c.67.1.4.aln  -            415    7e-131  432.2   0.0   1   1  1.3e-132  7.8e-131  432.0   0.0     1   414    13   461    13   461 0.99 -
+d1zoda_c.67.1.4      -            431 d2dkja_c.67.1.4.aln  -            415   5.7e-99  327.1   0.0   1   1  1.1e-100   6.4e-99  326.9   0.0     2   414     2   430     1   431 0.98 -
+d1vefa1c.67.1.4      -            387 d2dkja_c.67.1.4.aln  -            415   2.4e-96  318.4   0.0   1   1   4.3e-98   2.6e-96  318.3   0.0     8   411     4   386     1   387 0.97 -
+d2dkja_c.67.1.4      -            402 d2dkja_c.67.1.4.aln  -            415   1.3e-95  316.0   0.0   1   1   2.5e-97   1.5e-95  315.8   0.0     6   381     9   374     4   399 0.96 -
+d3piua_c.67.1.4      -            416 d2dkja_c.67.1.4.aln  -            415   3.1e-81  268.6   0.0   1   1   5.8e-83   3.5e-81  268.5   0.0    13   414     2   415     1   416 0.99 -
+d1bs0a_c.67.1.4      -            383 d2dkja_c.67.1.4.aln  -            415   8.3e-75  247.5   0.0   1   1   1.7e-76     1e-74  247.2   0.0     5   408     1   380     1   382 0.98 -
+d1w23a_c.67.1.4      -            360 d2dkja_c.67.1.4.aln  -            415   1.1e-69  230.6   0.0   1   1   2.1e-71   1.3e-69  230.4   0.0    16   413     3   359     1   360 0.98 -
+d2bwna1c.67.1.4      -            396 d2dkja_c.67.1.4.aln  -            415   5.6e-67  221.7   0.0   1   1     1e-68   6.2e-67  221.6   0.0     2   408     5   393     4   396 0.98 -
+d2epja_c.67.1.0      -            426 d2dkja_c.67.1.4.aln  -            415   3.8e-58  192.6   0.3   1   1   8.3e-60     5e-58  192.2   0.3    17   405    24   414    20   421 0.92 -
+d2fnua_c.67.1.4      -            373 d2dkja_c.67.1.4.aln  -            415     5e-58  192.2   0.1   1   1   9.2e-60   5.6e-58  192.1   0.1    11   415     2   373     1   373 0.99 -
+d1o69a_c.67.1.4      -            374 d2dkja_c.67.1.4.aln  -            415   3.7e-55  182.7   0.0   1   1   6.8e-57   4.1e-55  182.6   0.0    23   411     3   373     1   374 0.98 -
+d2c81a_c.67.1.0      -            409 d2dkja_c.67.1.4.aln  -            415   3.3e-08   28.1   0.0   1   1   8.5e-10   5.1e-08   27.5   0.0    70   213    66   199    62   202 0.91 -
+d2gb3a1c.67.1.1      -            389 d2dkja_c.67.1.4.aln  -            415    0.0072   10.5   0.0   1   2   0.00033      0.02    9.0   0.0   186   232   160   206    85   221 0.73 -
+d2gb3a1c.67.1.1      -            389 d2dkja_c.67.1.4.aln  -            415    0.0072   10.5   0.0   2   2       1.8   1.1e+02   -3.2   0.0   345   373   278   306   271   307 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d2dkja_c.67.1.4.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d2dkja_c.67.1.4.out -E 1 hmmModels95/d2dkja_c.67.1.4.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:20 2023
+# [ok]

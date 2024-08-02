@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3do6a_c.37.1.0      -            543 d3akea_c.37.1.0.aln  -            377  6.7e-210  692.0   2.9   1   1    5e-212  7.9e-210  691.8   2.9     1   377    68   459    68   459 1.00 -
+d1wcv1_c.37.1.0      -            244 d3akea_c.37.1.0.aln  -            377   2.3e-17   58.3   0.0   1   1   1.6e-19   2.5e-17   58.2   0.0   117   347     6   237     1   244 0.96 -
+d2qora_c.37.1.0      -            196 d3akea_c.37.1.0.aln  -            377   4.1e-15   50.9   0.0   1   1     3e-17   4.8e-15   50.7   0.0   150   344     3   186     1   190 0.96 -
+d2jaqa_c.37.1.0      -            201 d3akea_c.37.1.0.aln  -            377     2e-11   38.8   0.9   1   1   1.4e-13   2.2e-11   38.6   0.9   152   356     1   199     1   201 0.98 -
+d1kgda_c.37.1.1      -            178 d3akea_c.37.1.0.aln  -            377   0.00064   14.1   0.0   1   1   4.7e-06   0.00074   13.9   0.0   154   253     6   105     3   144 0.92 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d3akea_c.37.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d3akea_c.37.1.0.out -E 1 hmmModels95/d3akea_c.37.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:36 2023
+# [ok]

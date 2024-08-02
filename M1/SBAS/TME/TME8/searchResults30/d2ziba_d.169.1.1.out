@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1wk1a_d.169.1.1     -            150 d2ziba_d.169.1.1.aln -            130   2.9e-45  149.3   0.0   1   1   5.4e-47   3.2e-45  149.1   0.0     5   130     2   132     1   132 0.98 -
+d1qdda_d.169.1.1     -            144 d2ziba_d.169.1.1.aln -            130   1.5e-43  143.7   4.0   1   1   2.8e-45   1.7e-43  143.5   4.0     1   128    13   143    13   144 0.98 -
+d1wmza_d.169.1.1     -            140 d2ziba_d.169.1.1.aln -            130   2.4e-40  133.4   8.3   1   1   4.4e-42   2.6e-40  133.2   8.3     1   129     2   139     2   140 0.98 -
+d1gz2a_d.169.1.1     -            139 d2ziba_d.169.1.1.aln -            130   2.1e-37  123.9   0.1   1   1   3.7e-39   2.3e-37  123.7   0.1     2   127     2   137     1   139 0.98 -
+d3l9jc_d.169.1.1     -            134 d2ziba_d.169.1.1.aln -            130   9.1e-34  112.1   3.6   1   1   1.6e-35   9.9e-34  112.0   3.6     2   128     3   133     2   134 0.94 -
+d1qo3c_d.169.1.1     -            133 d2ziba_d.169.1.1.aln -            130   1.4e-33  111.5   5.0   1   1   2.6e-35   1.6e-33  111.3   5.0     2   129    14   132    13   133 0.96 -
+d1g1ta1d.169.1.1     -            118 d2ziba_d.169.1.1.aln -            130   1.2e-32  108.4   5.0   1   1   2.2e-34   1.3e-32  108.3   5.0    13   126     2   118     1   118 0.97 -
+d1pwba1d.169.1.1     -            121 d2ziba_d.169.1.1.aln -            130   1.7e-32  108.0   0.0   1   1   3.1e-34   1.9e-32  107.9   0.0     6   127     3   121     1   121 0.97 -
+d1kg0c_d.169.1.1     -            136 d2ziba_d.169.1.1.aln -            130   3.5e-32  106.9   3.3   1   1   7.7e-34   4.7e-32  106.6   3.3     1   129    18   135    18   136 0.97 -
+d1h8ua_d.169.1.1     -            115 d2ziba_d.169.1.1.aln -            130   5.1e-32  106.4   5.8   1   1   9.1e-34   5.5e-32  106.3   5.8    14   126     2   114     1   115 0.97 -
+d3hupa_d.169.1.1     -            121 d2ziba_d.169.1.1.aln -            130   1.2e-30  102.0  10.0   1   1   2.2e-32   1.4e-30  101.8  10.0     1   129     6   120     6   121 0.97 -
+d1byfa_d.169.1.1     -            123 d2ziba_d.169.1.1.aln -            130   6.4e-28   93.2   0.1   1   1   1.2e-29     7e-28   93.1   0.1    12   129     2   122     1   123 0.96 -
+d2ziba_d.169.1.1     -            130 d2ziba_d.169.1.1.aln -            130   5.1e-23   77.3   4.6   1   1   9.8e-25     6e-23   77.1   4.6     2   128     7   128     6   129 0.94 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2ziba_d.169.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2ziba_d.169.1.1.out -E 1 hmmModels30/d2ziba_d.169.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:56 2023
+# [ok]

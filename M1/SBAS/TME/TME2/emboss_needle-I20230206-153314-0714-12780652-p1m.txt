@@ -1,0 +1,113 @@
+########################################
+# Program: needle
+# Rundate: Mon  6 Feb 2023 15:40:04
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230206-153314-0714-12780652-p1m.aupfile
+#    -bsequence emboss_needle-I20230206-153314-0714-12780652-p1m.bupfile
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AK2H_ECOLI
+# 2: AK3_ECOLI
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 854
+# Identity:     136/854 (15.9%)
+# Similarity:   209/854 (24.5%)
+# Gaps:         449/854 (52.6%)
+# Score: 351.0
+# 
+#
+#=======================================
+
+AK2H_ECOLI         1 MSVIAQAGAKGRQLHKFGGSSLADVKCYLRVAGIMAEYSQPDDMMVVSAA     50
+                     ||.|.        :.||||:|:||.....|.|.|:...:.. .::|:||:
+AK3_ECOLI          1 MSEIV--------VSKFGGTSVADFDAMNRSADIVLSDANV-RLVVLSAS     41
+
+AK2H_ECOLI        51 GSTTNQLINWLK-LSQTDRLSAHQVQQTLRRYQCDLISGL----LPAEEA     95
+                     ...||.|:...: |...:|.   :....:|..|..::..|    :..||.
+AK3_ECOLI         42 AGITNLLVALAEGLEPGERF---EKLDAIRNIQFAILERLRYPNVIREEI     88
+
+AK2H_ECOLI        96 DSLISAFVSDLERLAALLDSGINDAVYAEVVGHGEVWSARLMSAVLNQQG    145
+                     :.|:.. ::.|...|||..|   .|:..|:|.|||:.|..|...:|.::.
+AK3_ECOLI         89 ERLLEN-ITVLAEAAALATS---PALTDELVSHGELMSTLLFVEILRERD    134
+
+AK2H_ECOLI       146 LPAAWLDAREFLRA-ERAAQPQVDEGLSYPLLQQLLVQHPGKRLVVT-GF    193
+                     :.|.|.|.|:.:|. :|..:.:.|......|....|:....:.||:| ||
+AK3_ECOLI        135 VQAQWFDVRKVMRTNDRFGRAEPDIAALAELAALQLLPRLNEGLVITQGF    184
+
+AK2H_ECOLI       194 ISRNNAGETVLLGRNGSDYSATQIGALAGVSRVTIWSDVAGVYSADPRKV    243
+                     |...|.|.|..|||.||||:|..:......|||.||:||.|:|:.|||.|
+AK3_ECOLI        185 IGSENKGRTTTLGRGGSDYTAALLAEALHASRVDIWTDVPGIYTTDPRVV    234
+
+AK2H_ECOLI       244 KDACLLPLLRLDEASELARLAAPVLHARTLQPVSGSEIDLQLRCSYTPDQ    293
+                     ..|..:..:...||:|:|...|.|||..||.|...|:|.:.:..|..|..
+AK3_ECOLI        235 SAAKRIDEIAFAEAAEMATFGAKVLHPATLLPAVRSDIPVFVGSSKDPRA    284
+
+AK2H_ECOLI       294 GSTRI---------ERVLASGTGARIVTSHDDVCLIEFQVPASQDFKLAH    334
+                     |.|.:         .|.||......::|.|      ...:..|:.| || 
+AK3_ECOLI        285 GGTLVCNKTENPPLFRALALRRNQTLLTLH------SLNMLHSRGF-LA-    326
+
+AK2H_ECOLI       335 KEIDQILKRAQVRPLAVGVHNDRQLLQFCYTSEVA--------------D    370
+                      |:..||.|          ||..  :....||||:              |
+AK3_ECOLI        327 -EVFGILAR----------HNIS--VDLITTSEVSVALTLDTTGSTSTGD    363
+
+AK2H_ECOLI       371 SAL--KILDEAGLPGELRLRQGLALVAMVGAGVTR------------NPL    406
+                     :.|  .:|.|......:.:.:||||||::|..:::            .|.
+AK3_ECOLI        364 TLLTQSLLMELSALCRVEVEEGLALVALIGNDLSKACGVGKEVFGVLEPF    413
+
+AK2H_ECOLI       407 HCHRFWQQLKGQPVEFTWQSDDGISLVAVLRTGPTESLIQGLHQSVFRAE    456
+                     :............:.|....:|            .|.::|.||.::|.  
+AK3_ECOLI        414 NIRMICYGASSHNLCFLVPGED------------AEQVVQKLHSNLFE--    449
+
+AK2H_ECOLI       457 KRIGLVLFGKGNIGSRWLELFAREQSTLSARTGFEFVLAGVVDSRRSLLS    506
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       507 YDGLDASRALAFFNDEAVEQDEESLFLWMRAHPYDDLVVLDVTASQQLAD    556
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       557 QYLDFASHGFHVISANKLAGASDSNKYRQIHDAFEKTGRHWLYNATVGAG    606
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       607 LPINHTVRDLIDSGDTILSISGIFSGTLSWLFLQFDGSVPFTELVDQAWQ    656
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       657 QGLTEPDPRDDLSGKDVMRKLVILAREAGYNIEPDQVRVESLVPAHCEGG    706
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       707 SIDHFFENGDELNEQMVQRLEAAREMGLVLRYVARFDANGKARVGVEAVR    756
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       757 EDHPLASLLPCDNVFAIESRWYRDNPLVIRGPGAGRDVTAGAIQSDINRL    806
+                                                                       
+AK3_ECOLI        450 --------------------------------------------------    449
+
+AK2H_ECOLI       807 AQLL    810
+                         
+AK3_ECOLI        450 ----    449
+
+
+#---------------------------------------
+#---------------------------------------

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3k69a_a.4.5.0       -            155 d2xiga_a.4.5.0.aln   -            136   2.1e-60  198.1   0.0   1   1   3.9e-62   2.4e-60  197.9   0.0     1   136    18   155    18   155 1.00 -
+d3bjaa_a.4.5.0       -            139 d2xiga_a.4.5.0.aln   -            136   3.3e-57  187.8   0.7   1   1     6e-59   3.6e-57  187.6   0.7     1   136     4   138     4   138 0.99 -
+d3jw4a_a.4.5.0       -            137 d2xiga_a.4.5.0.aln   -            136     8e-51  167.1   0.3   1   1   1.5e-52   8.8e-51  166.9   0.3     1   136     1   137     1   137 0.99 -
+d3qu3a_a.4.5.0       -            122 d2xiga_a.4.5.0.aln   -            136   3.1e-40  132.8   0.0   1   1   5.6e-42   3.4e-40  132.7   0.0     8   129     2   122     1   122 0.98 -
+d3df8a_a.4.5.0       -            109 d2xiga_a.4.5.0.aln   -            136   6.6e-31  102.6   0.0   1   1   1.2e-32   7.3e-31  102.4   0.0     4   119     1   109     1   109 0.99 -
+d3f8ba_a.4.5.0       -            105 d2xiga_a.4.5.0.aln   -            136   1.3e-30  101.6   0.3   1   1   2.3e-32   1.4e-30  101.5   0.3     4   119     1   105     1   105 0.97 -
+d2fbia1a.4.5.28      -            136 d2xiga_a.4.5.0.aln   -            136   9.4e-10   34.1   0.2   1   1   2.2e-11   1.3e-09   33.6   0.2    22   101    22   100    12   133 0.82 -
+d3broa1a.4.5.28      -            135 d2xiga_a.4.5.0.aln   -            136   3.7e-07   25.7   2.4   1   1   6.2e-09   3.8e-07   25.7   2.4    23   130    22   130     1   135 0.82 -
+d2etha1a.4.5.28      -            140 d2xiga_a.4.5.0.aln   -            136   5.7e-06   21.8   0.0   1   1   1.3e-07   7.7e-06   21.4   0.0    46   112    48   113    26   128 0.85 -
+d1lj9a_a.4.5.28      -            144 d2xiga_a.4.5.0.aln   -            136   3.2e-05   19.4   0.4   1   1   5.9e-07   3.6e-05   19.2   0.4    24   102    23    97     5   133 0.81 -
+d1s3ja_a.4.5.28      -            143 d2xiga_a.4.5.0.aln   -            136    0.0002   16.9   0.1   1   1   4.6e-06   0.00028   16.4   0.1    10    96    15   100     7   109 0.88 -
+d3ctaa1a.4.5.28      -             85 d2xiga_a.4.5.0.aln   -            136   0.00093   14.7   0.2   1   1   1.7e-05     0.001   14.5   0.2    35   100     6    73     1    84 0.79 -
+d2a61a1a.4.5.28      -            139 d2xiga_a.4.5.0.aln   -            136    0.0019   13.7   0.0   1   1   3.5e-05    0.0021   13.5   0.0    54   121    54   120    24   132 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2xiga_a.4.5.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2xiga_a.4.5.0.out -E 1 hmmModels30/d2xiga_a.4.5.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:56 2023
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2x4da_c.108.1.0     -            270 d2hx1a_c.108.1.0.aln -            241   1.2e-69  229.9   0.0   1   1   1.6e-71   1.4e-69  229.7   0.0     3   240    12   268    10   269 0.98 -
+d3dnpa_c.108.1.0     -            275 d2hx1a_c.108.1.0.aln -            241   2.1e-61  202.9   0.7   1   1   2.7e-63   2.4e-61  202.7   0.7     4   240     2   266     1   267 0.99 -
+d2hoqa_c.108.1.0     -            237 d2hx1a_c.108.1.0.aln -            241   2.6e-61  202.6   0.1   1   1   3.3e-63   2.9e-61  202.4   0.1     2   240     1   227     1   228 0.99 -
+d3fzqa_c.108.1.0     -            271 d2hx1a_c.108.1.0.aln -            241   5.7e-57  188.4   3.1   1   1   7.3e-59   6.4e-57  188.2   3.1     3   240     2   266     1   267 0.98 -
+d3qnma_c.108.1.0     -            231 d2hx1a_c.108.1.0.aln -            241     4e-52  172.5   0.0   1   1   5.1e-54   4.5e-52  172.4   0.0     2   238     2   231     1   231 0.98 -
+d2hi0a_c.108.1.0     -            240 d2hx1a_c.108.1.0.aln -            241     2e-48  160.4   0.0   1   1   2.6e-50   2.3e-48  160.2   0.0     1   239     2   239     2   240 0.97 -
+d2w43a_c.108.1.0     -            201 d2hx1a_c.108.1.0.aln -            241   3.1e-36  120.5   1.1   1   1   4.4e-38   3.8e-36  120.2   1.1     4   240     2   200     1   201 0.95 -
+d2hx1a_c.108.1.0     -            284 d2hx1a_c.108.1.0.aln -            241   2.7e-16   55.2   0.0   1   1   1.4e-17   1.2e-15   53.0   0.0     2   229    13   279    12   280 0.87 -
+d1x1na1c.1.8.1       -            523 d2hx1a_c.108.1.0.aln -            241    0.0013   13.7   0.0   1   1   2.4e-05    0.0021   13.0   0.0   144   217   338   410   333   422 0.91 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d2hx1a_c.108.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d2hx1a_c.108.1.0.out -E 1 hmmModels95/d2hx1a_c.108.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:27 2023
+# [ok]

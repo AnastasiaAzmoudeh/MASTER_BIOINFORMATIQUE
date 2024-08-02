@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2r6ja_c.2.1.0       -            310 d3i4fa_c.2.1.0.aln   -            295  6.6e-141  464.1   0.0   1   1  4.7e-143  7.4e-141  464.0   0.0     1   295     5   308     5   308 1.00 -
+d3ehea_c.2.1.0       -            303 d3i4fa_c.2.1.0.aln   -            295  9.5e-140  460.3   0.0   1   1  6.7e-142  1.1e-139  460.2   0.0     1   295     1   303     1   303 1.00 -
+d3f1la_c.2.1.0       -            245 d3i4fa_c.2.1.0.aln   -            295     2e-96  318.1   0.0   1   1   1.4e-98   2.2e-96  318.0   0.0    11   266     1   244     1   245 0.99 -
+d3l77a_c.2.1.0       -            235 d3i4fa_c.2.1.0.aln   -            295   1.3e-85  282.6   0.0   1   1     9e-88   1.4e-85  282.5   0.0    21   270     1   235     1   235 0.99 -
+d3i4fa_c.2.1.0       -            250 d3i4fa_c.2.1.0.aln   -            295   3.8e-06   21.7   0.2   1   1   7.7e-08   1.2e-05   20.1   0.2    23   189     3   165     2   187 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d3i4fa_c.2.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d3i4fa_c.2.1.0.out -E 1 hmmModels30/d3i4fa_c.2.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:57 2023
+# [ok]

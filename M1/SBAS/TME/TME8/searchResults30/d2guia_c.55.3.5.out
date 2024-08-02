@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3hl8a_c.55.3.5      -            470 d2guia_c.55.3.5.aln  -            360  3.4e-180  594.3   0.6   1   1  6.8e-182  3.8e-180  594.1   0.6     1   360    38   456    38   456 1.00 -
+d1s5ja1c.55.3.5      -            410 d2guia_c.55.3.5.aln  -            360  4.7e-144  475.4   0.5   1   1  9.4e-146  5.3e-144  475.2   0.5     1   360    20   410    20   410 1.00 -
+d1q8ia1c.55.3.5      -            388 d2guia_c.55.3.5.aln  -            360  8.7e-141  464.6   0.0   1   1  1.7e-142  9.7e-141  464.4   0.0     1   360     1   383     1   383 1.00 -
+d2hbja2c.55.3.5      -            292 d2guia_c.55.3.5.aln  -            360   2.4e-83  275.6   0.7   1   1   4.7e-85   2.7e-83  275.5   0.7    65   358     2   291     1   292 0.99 -
+d3mxma_c.55.3.5      -            229 d2guia_c.55.3.5.aln  -            360   4.7e-35  116.8   0.0   1   1   9.2e-37   5.2e-35  116.6   0.0   130   353     2   228     1   229 0.99 -
+d1x9ma1c.55.3.5      -            204 d2guia_c.55.3.5.aln  -            360   4.6e-34  113.5   0.0   1   1     9e-36   5.1e-34  113.4   0.0   150   356     2   204     1   204 0.98 -
+d1w0ha_c.55.3.5      -            200 d2guia_c.55.3.5.aln  -            360   1.6e-32  108.4   0.0   1   1   3.2e-34   1.8e-32  108.3   0.0   142   342     2   199     1   200 0.98 -
+d1yt3a3c.55.3.5      -            193 d2guia_c.55.3.5.aln  -            360   7.2e-31  103.0   0.0   1   1   1.4e-32   7.9e-31  102.9   0.0   147   341     2   192     1   193 0.99 -
+d2f96a1c.55.3.5      -            202 d2guia_c.55.3.5.aln  -            360   6.3e-28   93.3   0.0   1   1   1.2e-29   6.9e-28   93.2   0.0   139   341     2   201     1   202 0.98 -
+d1kfsa1c.55.3.5      -            195 d2guia_c.55.3.5.aln  -            360   3.6e-26   87.5   0.1   1   1   7.1e-28     4e-26   87.4   0.1   144   341     3   195     1   195 0.98 -
+d1vk0a_c.55.3.5      -            206 d2guia_c.55.3.5.aln  -            360   3.9e-26   87.4   0.0   1   1   7.5e-28   4.2e-26   87.3   0.0   140   339     4   202     1   206 0.97 -
+d2py5a1c.55.3.5      -            183 d2guia_c.55.3.5.aln  -            360   2.5e-24   81.5   0.0   1   1   4.8e-26   2.7e-24   81.4   0.0   153   338     2   181     1   183 0.98 -
+d2igia_c.55.3.5      -            180 d2guia_c.55.3.5.aln  -            360   1.1e-19   66.3   0.0   1   1     2e-21   1.2e-19   66.1   0.0   146   336     3   179     1   180 0.97 -
+d1wlja_c.55.3.5      -            173 d2guia_c.55.3.5.aln  -            360   1.8e-18   62.2   0.0   1   1   3.5e-20     2e-18   62.1   0.0   151   331     3   171     1   173 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2guia_c.55.3.5.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2guia_c.55.3.5.out -E 1 hmmModels30/d2guia_c.55.3.5.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:54 2023
+# [ok]

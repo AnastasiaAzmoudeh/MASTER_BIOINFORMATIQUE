@@ -1,0 +1,79 @@
+########################################
+# Program: water
+# Rundate: Mon  6 Feb 2023 15:36:02
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20230206-153339-0821-62671812-p1m.aupfile
+#    -bsequence emboss_water-I20230206-153339-0821-62671812-p1m.bupfile
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: AK2H_ECOLI
+# 2: AK3_ECOLI
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 482
+# Identity:     133/482 (27.6%)
+# Similarity:   205/482 (42.5%)
+# Gaps:          85/482 (17.6%)
+# Score: 353.5
+# 
+#
+#=======================================
+
+AK2H_ECOLI        16 KFGGSSLADVKCYLRVAGIMAEYSQPDDMMVVSAAGSTTNQLINWLK-LS     64
+                     ||||:|:||.....|.|.|:...:.. .::|:||:...||.|:...: |.
+AK3_ECOLI          8 KFGGTSVADFDAMNRSADIVLSDANV-RLVVLSASAGITNLLVALAEGLE     56
+
+AK2H_ECOLI        65 QTDRLSAHQVQQTLRRYQCDLISGL----LPAEEADSLISAFVSDLERLA    110
+                     ..:|.   :....:|..|..::..|    :..||.:.|:.. ::.|...|
+AK3_ECOLI         57 PGERF---EKLDAIRNIQFAILERLRYPNVIREEIERLLEN-ITVLAEAA    102
+
+AK2H_ECOLI       111 ALLDSGINDAVYAEVVGHGEVWSARLMSAVLNQQGLPAAWLDAREFLRA-    159
+                     ||..|   .|:..|:|.|||:.|..|...:|.::.:.|.|.|.|:.:|. 
+AK3_ECOLI        103 ALATS---PALTDELVSHGELMSTLLFVEILRERDVQAQWFDVRKVMRTN    149
+
+AK2H_ECOLI       160 ERAAQPQVDEGLSYPLLQQLLVQHPGKRLVVT-GFISRNNAGETVLLGRN    208
+                     :|..:.:.|......|....|:....:.||:| |||...|.|.|..|||.
+AK3_ECOLI        150 DRFGRAEPDIAALAELAALQLLPRLNEGLVITQGFIGSENKGRTTTLGRG    199
+
+AK2H_ECOLI       209 GSDYSATQIGALAGVSRVTIWSDVAGVYSADPRKVKDACLLPLLRLDEAS    258
+                     ||||:|..:......|||.||:||.|:|:.|||.|..|..:..:...||:
+AK3_ECOLI        200 GSDYTAALLAEALHASRVDIWTDVPGIYTTDPRVVSAAKRIDEIAFAEAA    249
+
+AK2H_ECOLI       259 ELARLAAPVLHARTLQPVSGSEIDLQLRCSYTPDQGSTRI---------E    299
+                     |:|...|.|||..||.|...|:|.:.:..|..|..|.|.:         .
+AK3_ECOLI        250 EMATFGAKVLHPATLLPAVRSDIPVFVGSSKDPRAGGTLVCNKTENPPLF    299
+
+AK2H_ECOLI       300 RVLASGTGARIVTSHDDVCLIEFQVPASQDFKLAHKEIDQILKRAQVRPL    349
+                     |.||......::|.|      ...:..|:.| ||  |:..||.|      
+AK3_ECOLI        300 RALALRRNQTLLTLH------SLNMLHSRGF-LA--EVFGILAR------    334
+
+AK2H_ECOLI       350 AVGVHNDRQLLQFCYTSEVA--------------DSAL--KILDEAGLPG    383
+                         ||..  :....||||:              |:.|  .:|.|.....
+AK3_ECOLI        335 ----HNIS--VDLITTSEVSVALTLDTTGSTSTGDTLLTQSLLMELSALC    378
+
+AK2H_ECOLI       384 ELRLRQGLALVAMVGAGVTR------------NPLHCHRFWQQLKGQPVE    421
+                     .:.:.:||||||::|..:::            .|.:............:.
+AK3_ECOLI        379 RVEVEEGLALVALIGNDLSKACGVGKEVFGVLEPFNIRMICYGASSHNLC    428
+
+AK2H_ECOLI       422 FTWQSDDGISLVAVLRTGPTESLIQGLHQSVF    453
+                     |....:|            .|.::|.||.::|
+AK3_ECOLI        429 FLVPGED------------AEQVVQKLHSNLF    448
+
+
+#---------------------------------------
+#---------------------------------------

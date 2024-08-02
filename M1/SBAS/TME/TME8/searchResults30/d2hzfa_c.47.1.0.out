@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3c7ma_c.47.1.0      -            195 d2hzfa_c.47.1.0.aln  -            129   3.6e-47  154.9   0.6   1   1   5.7e-49   4.1e-47  154.7   0.6     3   127     1   195     1   195 0.99 -
+d3h93a_c.47.1.0      -            192 d2hzfa_c.47.1.0.aln  -            129   8.7e-47  153.7   0.0   1   1   1.4e-48   9.9e-47  153.5   0.0     1   128     4   186     4   187 0.99 -
+d3feua_c.47.1.0      -            183 d2hzfa_c.47.1.0.aln  -            129   2.1e-45  149.2   0.0   1   1   3.3e-47   2.4e-45  149.0   0.0     2   127     2   183     1   183 0.99 -
+d2xhfa_c.47.1.0      -            156 d2hzfa_c.47.1.0.aln  -            129   3.5e-39  129.1   0.0   1   1   5.5e-41   3.9e-39  128.9   0.0     2   129    10   149     9   149 0.98 -
+d2v1ma_c.47.1.0      -            163 d2hzfa_c.47.1.0.aln  -            129   1.3e-37  124.0   0.0   1   1     2e-39   1.4e-37  123.9   0.0     1   127     4   162     4   163 0.99 -
+d3h79a_c.47.1.0      -            115 d2hzfa_c.47.1.0.aln  -            129   1.1e-25   85.4   0.0   1   1   1.7e-27   1.2e-25   85.3   0.0     3   128     2   114     1   115 0.98 -
+d3gnja_c.47.1.0      -            111 d2hzfa_c.47.1.0.aln  -            129   1.5e-25   85.0   0.2   1   1   2.2e-27   1.6e-25   84.9   0.2     2   127     2   111     1   111 0.98 -
+d2wcia_c.47.1.0      -            113 d2hzfa_c.47.1.0.aln  -            129   1.5e-23   78.5   0.0   1   1   2.3e-25   1.7e-23   78.4   0.0     5   128     1   103     1   104 0.98 -
+d3qmxa_c.47.1.0      -             99 d2hzfa_c.47.1.0.aln  -            129   1.9e-21   71.7   0.0   1   1   2.8e-23     2e-21   71.6   0.0    11   127     3    99     1    99 0.97 -
+d3fz4a_c.47.1.0      -            119 d2hzfa_c.47.1.0.aln  -            129     4e-19   64.2   0.0   1   1   6.1e-21   4.4e-19   64.1   0.0     2   128     2   115     1   116 0.98 -
+d2hzfa_c.47.1.0      -            110 d2hzfa_c.47.1.0.aln  -            129    0.0031   12.8   0.0   1   1   7.6e-05    0.0054   12.0   0.0    24    45    16    37     5   107 0.74 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2hzfa_c.47.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2hzfa_c.47.1.0.out -E 1 hmmModels30/d2hzfa_c.47.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:55 2023
+# [ok]

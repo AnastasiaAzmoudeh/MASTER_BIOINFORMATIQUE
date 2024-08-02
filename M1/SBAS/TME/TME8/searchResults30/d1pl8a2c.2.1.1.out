@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1kola2c.2.1.1       -            195 d1pl8a2c.2.1.1.aln   -            180   4.7e-64  210.9   0.6   1   1   9.3e-66   5.3e-64  210.7   0.6     5   180     2   191     1   191 0.99 -
+d1pqwa_c.2.1.1       -            183 d1pl8a2c.2.1.1.aln   -            180   1.1e-59  196.6   0.5   1   1   2.2e-61   1.2e-59  196.5   0.5     4   180     1   176     1   176 0.99 -
+d2dm6a2c.2.1.1       -            182 d1pl8a2c.2.1.1.aln   -            180   7.8e-59  193.9   0.1   1   1   1.5e-60   8.6e-59  193.7   0.1     4   179     5   179     2   180 0.98 -
+d1gu7a2c.2.1.1       -            189 d1pl8a2c.2.1.1.aln   -            180   1.3e-58  193.1   0.0   1   1   2.6e-60   1.4e-58  193.0   0.0     2   180     2   189     1   189 0.96 -
+d1qora2c.2.1.1       -            179 d1pl8a2c.2.1.1.aln   -            180   2.6e-58  192.1   0.3   1   1   5.1e-60   2.9e-58  192.0   0.3     2   179     2   178     1   179 0.99 -
+d1vj0a2c.2.1.1       -            182 d1pl8a2c.2.1.1.aln   -            180   3.1e-58  191.9   0.0   1   1   6.1e-60   3.4e-58  191.8   0.0     2   179     2   181     1   182 0.98 -
+d1yb5a2c.2.1.1       -            174 d1pl8a2c.2.1.1.aln   -            180   8.2e-56  184.0   2.0   1   1   1.6e-57     9e-56  183.9   2.0     2   180     2   174     1   174 0.99 -
+d1jqba2c.2.1.1       -            174 d1pl8a2c.2.1.1.aln   -            180   8.4e-54  177.5   2.8   1   1   1.6e-55   9.2e-54  177.3   2.8     4   175     3   173     1   174 0.98 -
+d2jhfa2c.2.1.1       -            176 d1pl8a2c.2.1.1.aln   -            180   5.9e-52  171.4   0.8   1   1   1.2e-53   6.5e-52  171.3   0.8     2   174     2   175     1   176 0.98 -
+d1o89a2c.2.1.1       -            177 d1pl8a2c.2.1.1.aln   -            180     9e-47  154.6   0.2   1   1   1.8e-48   9.9e-47  154.4   0.2     2   179     5   174     4   175 0.98 -
+d1h2ba2c.2.1.1       -            172 d1pl8a2c.2.1.1.aln   -            180   2.8e-46  153.0   1.1   1   1   5.4e-48   3.1e-46  152.8   1.1     2   172     5   171     4   172 0.97 -
+d1piwa2c.2.1.1       -            168 d1pl8a2c.2.1.1.aln   -            180   3.4e-44  146.2   0.0   1   1   6.6e-46   3.7e-44  146.0   0.0     2   173     2   168     1   168 0.98 -
+d1pl8a2c.2.1.1       -            171 d1pl8a2c.2.1.1.aln   -            180     7e-20   66.9   2.9   1   1   1.6e-21   8.8e-20   66.6   2.9    10   147     8   146     3   156 0.86 -
+d1gpja2c.2.1.7       -            159 d1pl8a2c.2.1.1.aln   -            180    0.0079   11.4   1.1   1   1    0.0002     0.011   10.9   1.1    24    78    19    73     3    89 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1pl8a2c.2.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1pl8a2c.2.1.1.out -E 1 hmmModels30/d1pl8a2c.2.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:48 2023
+# [ok]

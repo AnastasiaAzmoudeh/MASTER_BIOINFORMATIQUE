@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1omra_a.39.1.5      -            201 d1exra_a.39.1.5.aln  -            171   4.5e-64  211.0   2.6   1   1   8.5e-66   5.1e-64  210.8   2.6     2   170     6   188     5   189 0.99 -
+d1jbaa_a.39.1.5      -            189 d1exra_a.39.1.5.aln  -            171     1e-62  206.6   2.1   1   1   1.9e-64   1.2e-62  206.4   2.1     2   171     2   187     1   187 0.99 -
+d1qv0a_a.39.1.5      -            189 d1exra_a.39.1.5.aln  -            171   4.4e-59  194.8   0.2   1   1   8.2e-61     5e-59  194.6   0.2     1   170    14   182    14   183 0.98 -
+d2sasa_a.39.1.5      -            185 d1exra_a.39.1.5.aln  -            171   2.1e-52  173.0   0.4   1   1   3.9e-54   2.4e-52  172.9   0.4     1   168    11   184    11   185 0.99 -
+d2zfda1a.39.1.5      -            183 d1exra_a.39.1.5.aln  -            171   5.7e-49  161.9   3.7   1   1   1.1e-50   6.5e-49  161.7   3.7     5   171     1   175     1   175 0.99 -
+d1xo5a_a.39.1.5      -            180 d1exra_a.39.1.5.aln  -            171   1.3e-48  160.7   0.1   1   1   2.4e-50   1.5e-48  160.5   0.1     3   170     3   179     1   180 0.98 -
+d1nyaa_a.39.1.5      -            176 d1exra_a.39.1.5.aln  -            171   3.7e-46  152.7   1.1   1   1   6.7e-48   4.1e-46  152.6   1.1     1   169    10   174    10   176 0.99 -
+d2scpa_a.39.1.5      -            174 d1exra_a.39.1.5.aln  -            171   2.9e-45  149.8   3.3   1   1   5.3e-47   3.2e-45  149.6   3.3     1   170     9   167     9   168 0.99 -
+d1exra_a.39.1.5      -            146 d1exra_a.39.1.5.aln  -            171     4e-32  107.0   7.7   1   2     1e-17   6.2e-16   54.3   1.2    96   166    10    79     2    84 0.89 -
+d1exra_a.39.1.5      -            146 d1exra_a.39.1.5.aln  -            171     4e-32  107.0   7.7   2   2   1.3e-18   7.9e-17   57.2   2.0    92   157    79   144    74   146 0.96 -
+d1jfka_a.39.1.5      -            134 d1exra_a.39.1.5.aln  -            171   9.1e-31  102.6   6.0   1   1   3.8e-32   2.3e-30  101.3   6.0     8   158     1   134     1   134 0.97 -
+d1s6ja_a.39.1.5      -             87 d1exra_a.39.1.5.aln  -            171   7.5e-22   73.6   4.0   1   1   1.9e-23   1.2e-21   73.0   4.0    56   158     5    86     1    87 0.90 -
+d1j7qa_a.39.1.5      -             86 d1exra_a.39.1.5.aln  -            171   1.1e-21   73.0   0.1   1   1   2.1e-23   1.2e-21   72.9   0.1    92   166    11    85     3    86 0.96 -
+d1ctaa_a.39.1.5      -             34 d1exra_a.39.1.5.aln  -            171     9e-12   40.8   0.1   1   1   1.5e-13   9.3e-12   40.7   0.1    92   125     1    34     1    34 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1exra_a.39.1.5.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1exra_a.39.1.5.out -E 1 hmmModels30/d1exra_a.39.1.5.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:44 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2k5ga1d.129.3.5     -            183 d1xuva_d.129.3.5.aln -            157   1.8e-63  208.8   0.0   1   1   2.7e-65   2.1e-63  208.6   0.0     1   157    15   166    15   166 0.99 -
+d2il5a1d.129.3.5     -            164 d1xuva_d.129.3.5.aln -            157   2.5e-49  162.8   1.8   1   1   3.6e-51   2.8e-49  162.7   1.8     1   156     3   163     3   164 0.99 -
+d1xfsa_d.129.3.5     -            165 d1xuva_d.129.3.5.aln -            157   3.3e-49  162.5   0.0   1   1   4.5e-51   3.6e-49  162.4   0.0     2   157     2   165     1   165 0.98 -
+d3elia1d.129.3.5     -            143 d1xuva_d.129.3.5.aln -            157     4e-47  155.7   0.3   1   1   5.6e-49   4.4e-47  155.6   0.3     6   152     2   143     1   143 0.99 -
+d2nn5a1d.129.3.5     -            160 d1xuva_d.129.3.5.aln -            157   3.4e-45  149.4   0.3   1   1   4.8e-47   3.8e-45  149.3   0.3     1   155     8   159     8   160 0.98 -
+d2l65a1d.129.3.5     -            155 d1xuva_d.129.3.5.aln -            157   6.2e-44  145.3   0.8   1   1   8.8e-46   6.9e-44  145.2   0.8     4   156     1   153     1   154 0.98 -
+d1z94a1d.129.3.5     -            143 d1xuva_d.129.3.5.aln -            157   7.1e-43  141.9   0.0   1   1   9.8e-45   7.7e-43  141.8   0.0     5   153     2   142     1   143 0.98 -
+d1xn5a_d.129.3.5     -            138 d1xuva_d.129.3.5.aln -            157   1.8e-41  137.4   2.4   1   1   2.4e-43   1.9e-41  137.2   2.4     2   152     2   137     1   138 0.98 -
+d1x53a1d.129.3.5     -            132 d1xuva_d.129.3.5.aln -            157     2e-33  111.2   0.3   1   1   2.7e-35   2.2e-33  111.1   0.3     3   156     2   132     1   132 0.98 -
+d1xuva_d.129.3.5     -            163 d1xuva_d.129.3.5.aln -            157   2.6e-08   29.6   0.1   1   1   4.7e-10   3.7e-08   29.1   0.1     5    95    12   103     9   159 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1xuva_d.129.3.5.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1xuva_d.129.3.5.out -E 1 hmmModels30/d1xuva_d.129.3.5.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:52 2023
+# [ok]

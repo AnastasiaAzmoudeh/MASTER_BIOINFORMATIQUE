@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3tqla_c.94.1.0      -            227 d3kzga_c.94.1.0.aln  -            287   4.3e-52  172.8   0.5   1   1   6.7e-54   4.8e-52  172.7   0.5    24   259     2   227     1   227 0.99 -
+d3r6ua_c.94.1.0      -            272 d3kzga_c.94.1.0.aln  -            287     1e-50  168.3   3.2   1   1   1.6e-52   1.1e-50  168.2   3.2     9   285     1   272     1   272 0.99 -
+d3delb_c.94.1.0      -            232 d3kzga_c.94.1.0.aln  -            287   1.1e-46  155.1   0.0   1   1   1.7e-48   1.2e-46  154.9   0.0    25   268     2   230     1   232 0.98 -
+d3i6va_c.94.1.0      -            218 d3kzga_c.94.1.0.aln  -            287   2.5e-42  140.8   0.0   1   1   4.4e-44   3.2e-42  140.4   0.0    25   263     1   215     1   218 0.97 -
+d2q88a_c.94.1.0      -            257 d3kzga_c.94.1.0.aln  -            287   3.4e-42  140.3   0.0   1   1   5.2e-44   3.7e-42  140.2   0.0    15   276     3   256     1   257 0.98 -
+d1jeta_c.94.1.1      -            517 d3kzga_c.94.1.0.aln  -            287   2.4e-41  137.5   5.2   1   1   4.2e-43     3e-41  137.2   5.2     1   286    76   444    76   445 0.95 -
+d3h7ma_c.94.1.0      -            228 d3kzga_c.94.1.0.aln  -            287   1.1e-40  135.4   0.0   1   1   1.6e-42   1.2e-40  135.3   0.0    21   262     2   226     1   228 0.98 -
+d3kzga_c.94.1.0      -            228 d3kzga_c.94.1.0.aln  -            287   1.4e-18   62.9   0.0   1   1   2.5e-20   1.8e-18   62.5   0.0    28   259     6   228     4   228 0.91 -
+d1xt8a1c.94.1.1      -            248 d3kzga_c.94.1.0.aln  -            287   2.5e-11   39.0   3.8   1   1   4.6e-13   3.3e-11   38.7   3.8    27   209    14   187     8   232 0.83 -
+d1ii5a_c.94.1.1      -            226 d3kzga_c.94.1.0.aln  -            287   6.8e-05   17.9   0.0   1   1   4.2e-06    0.0003   15.8   0.0    42   260    20   226     7   226 0.84 -
+d1uqwa_c.94.1.1      -            487 d3kzga_c.94.1.0.aln  -            287   0.00062   14.8   0.0   1   1   1.6e-05    0.0011   13.9   0.0   143   209   229   327   168   338 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d3kzga_c.94.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d3kzga_c.94.1.0.out -E 1 hmmModels95/d3kzga_c.94.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:41 2023
+# [ok]

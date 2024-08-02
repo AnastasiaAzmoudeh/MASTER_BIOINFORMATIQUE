@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2efja_c.66.1.0      -            377 d3doua_c.66.1.0.aln  -            239  2.5e-131  431.8   0.0   1   1  2.2e-133  2.8e-131  431.6   0.0     1   239    15   336    15   336 1.00 -
+d3evfa_c.66.1.0      -            261 d3doua_c.66.1.0.aln  -            239   3.2e-83  274.3   0.0   1   1   2.7e-85   3.6e-83  274.1   0.0     2   239     3   253     2   253 0.99 -
+d3d2la_c.66.1.0      -            238 d3doua_c.66.1.0.aln  -            239   9.1e-81  266.2   0.0   1   1   7.7e-83     1e-80  266.1   0.0     1   239     1   238     1   238 1.00 -
+d2nyua_c.66.1.0      -            189 d3doua_c.66.1.0.aln  -            239   1.5e-53  177.1   0.0   1   1   1.3e-55   1.7e-53  177.0   0.0     1   209     1   189     1   189 1.00 -
+d3c3pa_c.66.1.0      -            210 d3doua_c.66.1.0.aln  -            239   1.5e-52  173.9   0.0   1   1   1.2e-54   1.6e-52  173.7   0.0     2   228     2   210     1   210 0.99 -
+d3e05a_c.66.1.0      -            191 d3doua_c.66.1.0.aln  -            239   1.8e-48  160.5   0.0   1   1   1.5e-50     2e-48  160.4   0.0     7   209     1   191     1   191 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d3doua_c.66.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d3doua_c.66.1.0.out -E 1 hmmModels30/d3doua_c.66.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:57 2023
+# [ok]

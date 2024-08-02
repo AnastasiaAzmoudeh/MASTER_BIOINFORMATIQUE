@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ofda2c.1.4.1       -            809 d1p4ca_c.1.4.1.aln   -            430  4.6e-261  861.7   0.0   1   1  5.8e-263  5.8e-261  861.4   0.0     1   430    47   536    47   536 1.00 -
+d1vyra_c.1.4.1       -            363 d1p4ca_c.1.4.1.aln   -            430   3.3e-75  249.3   0.0   1   1   3.8e-77   3.7e-75  249.1   0.0     6   371     2   362     1   363 0.99 -
+d1djqa1c.1.4.1       -            340 d1p4ca_c.1.4.1.aln   -            430   3.4e-69  229.5   0.0   1   1   3.8e-71   3.7e-69  229.3   0.0     6   360     3   340     1   340 0.99 -
+d1gtea2c.1.4.1       -            312 d1p4ca_c.1.4.1.aln   -            430   2.3e-64  213.6   0.0   1   1   2.6e-66   2.6e-64  213.4   0.0     9   331     2   311     1   312 0.99 -
+d1ep3a_c.1.4.1       -            311 d1p4ca_c.1.4.1.aln   -            430   7.4e-62  205.3   0.0   1   1   8.3e-64   8.2e-62  205.1   0.0     2   346     1   311     1   311 0.99 -
+d2e6fa_c.1.4.1       -            312 d1p4ca_c.1.4.1.aln   -            430   1.7e-54  181.0   0.0   1   1   1.9e-56   1.9e-54  180.9   0.0     7   343     2   311     1   312 0.99 -
+d1p0ka_c.1.4.1       -            329 d1p4ca_c.1.4.1.aln   -            430   8.1e-54  178.8   0.0   1   1   9.1e-56   8.9e-54  178.7   0.0     8   364     3   328     1   329 0.98 -
+d1vhna_c.1.4.1       -            305 d1p4ca_c.1.4.1.aln   -            430   3.1e-48  160.4   0.0   1   1   3.5e-50   3.5e-48  160.2   0.0     9   349     2   305     1   305 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1p4ca_c.1.4.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1p4ca_c.1.4.1.out -E 1 hmmModels30/d1p4ca_c.1.4.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:48 2023
+# [ok]

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2k5ga1d.129.3.5     -            183 d2l65a1d.129.3.5.aln -            154   3.6e-59  194.8   0.0   1   1   5.3e-61   4.1e-59  194.6   0.0     2   153    14   165    13   166 0.99 -
+d1xfsa_d.129.3.5     -            165 d2l65a1d.129.3.5.aln -            154   3.9e-55  181.7   0.1   1   1   5.5e-57   4.3e-55  181.6   0.1     4   153     2   164     1   165 0.98 -
+d2il5a1d.129.3.5     -            164 d2l65a1d.129.3.5.aln -            154   1.9e-50  166.5   1.8   1   1   2.7e-52   2.1e-50  166.4   1.8     1   153     1   163     1   164 0.98 -
+d1xuva_d.129.3.5     -            163 d2l65a1d.129.3.5.aln -            154   3.7e-49  162.3   0.0   1   1   5.2e-51   4.1e-49  162.2   0.0     2   153     7   160     6   161 0.99 -
+d3elia1d.129.3.5     -            143 d2l65a1d.129.3.5.aln -            154     4e-47  155.7   0.2   1   1   5.6e-49   4.4e-47  155.6   0.2     8   149     2   143     1   143 0.98 -
+d2nn5a1d.129.3.5     -            160 d2l65a1d.129.3.5.aln -            154   1.6e-41  137.5   0.2   1   1   2.2e-43   1.7e-41  137.4   0.2     2   152     7   159     6   160 0.98 -
+d1z94a1d.129.3.5     -            143 d2l65a1d.129.3.5.aln -            154   5.8e-40  132.4   0.0   1   1   8.1e-42   6.4e-40  132.3   0.0     7   150     2   142     1   143 0.95 -
+d1xn5a_d.129.3.5     -            138 d2l65a1d.129.3.5.aln -            154   3.8e-39  129.8   1.8   1   1   5.5e-41   4.4e-39  129.6   1.8     5   149     3   137     1   138 0.96 -
+d1x53a1d.129.3.5     -            132 d2l65a1d.129.3.5.aln -            154   2.4e-33  111.0   0.2   1   1   3.3e-35   2.6e-33  110.9   0.2     5   151     2   130     1   132 0.98 -
+d2l65a1d.129.3.5     -            155 d2l65a1d.129.3.5.aln -            154     2e-05   20.3   0.3   1   1   3.6e-07   2.8e-05   19.8   0.3    33   152    28   152    22   154 0.70 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d2l65a1d.129.3.5.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d2l65a1d.129.3.5.out -E 1 hmmModels95/d2l65a1d.129.3.5.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:30 2023
+# [ok]

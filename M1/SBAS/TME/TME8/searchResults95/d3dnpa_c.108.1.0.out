@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2hx1a_c.108.1.0     -            284 d3dnpa_c.108.1.0.aln -            242   2.8e-68  225.1   0.2   1   1   3.2e-70   3.1e-68  225.0   0.2     1   233    12   282    12   284 0.99 -
+d2x4da_c.108.1.0     -            270 d3dnpa_c.108.1.0.aln -            242     7e-67  220.6   0.0   1   1   7.9e-69   7.7e-67  220.4   0.0     3   241    12   268    10   269 0.99 -
+d3fzqa_c.108.1.0     -            271 d3dnpa_c.108.1.0.aln -            242   2.4e-60  199.2   3.5   1   1   2.7e-62   2.7e-60  199.0   3.5     3   241     2   266     1   267 0.99 -
+d2hoqa_c.108.1.0     -            237 d3dnpa_c.108.1.0.aln -            242   1.5e-58  193.3   0.1   1   1   1.7e-60   1.6e-58  193.2   0.1     2   240     1   226     1   228 0.98 -
+d3qnma_c.108.1.0     -            231 d3dnpa_c.108.1.0.aln -            242   4.5e-55  181.9   0.0   1   1   5.1e-57     5e-55  181.7   0.0     2   239     2   231     1   231 0.99 -
+d2hi0a_c.108.1.0     -            240 d3dnpa_c.108.1.0.aln -            242   2.1e-51  169.9   0.0   1   1   2.4e-53   2.3e-51  169.7   0.0     1   240     2   239     2   240 0.98 -
+d2w43a_c.108.1.0     -            201 d3dnpa_c.108.1.0.aln -            242   4.4e-35  116.4   1.1   1   1     5e-37     5e-35  116.3   1.1     4   241     2   200     1   201 0.93 -
+d3dnpa_c.108.1.0     -            275 d3dnpa_c.108.1.0.aln -            242   4.6e-17   57.4   2.4   1   2   4.7e-12   4.6e-10   34.5   0.2     5   115     3   123     1   127 0.82 -
+d3dnpa_c.108.1.0     -            275 d3dnpa_c.108.1.0.aln -            242   4.6e-17   57.4   2.4   2   2   1.4e-08   1.4e-06   23.2   0.2   169   238   192   263   163   266 0.95 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d3dnpa_c.108.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d3dnpa_c.108.1.0.out -E 1 hmmModels95/d3dnpa_c.108.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:38 2023
+# [ok]

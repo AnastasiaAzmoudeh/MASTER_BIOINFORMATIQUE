@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1z9ha1a.45.1.1      -            161 d1gnwa1a.45.1.1.aln  -            138   3.1e-45  149.3   0.0   1   1   4.9e-47   3.5e-45  149.1   0.0     1   138     7   149     7   149 0.99 -
+d1tu7a1a.45.1.1      -            131 d1gnwa1a.45.1.1.aln  -            138   1.2e-43  144.2   0.0   1   1   1.8e-45   1.3e-43  144.0   0.0     3   137     1   131     1   131 0.99 -
+d2c4ja1a.45.1.1      -            133 d1gnwa1a.45.1.1.aln  -            138   4.5e-42  139.0   0.1   1   1     7e-44     5e-42  138.9   0.1     1   137     1   129     1   130 0.99 -
+d1okta1a.45.1.1      -            126 d1gnwa1a.45.1.1.aln  -            138   9.4e-42  138.0   1.2   1   1   1.4e-43     1e-41  137.8   1.2     2   128     1   125     1   126 0.98 -
+d1nhya1a.45.1.1      -            144 d1gnwa1a.45.1.1.aln  -            138   3.6e-41  136.1   0.0   1   1   5.6e-43     4e-41  135.9   0.0     1   135     8   144     8   144 0.98 -
+d1eema1a.45.1.1      -            139 d1gnwa1a.45.1.1.aln  -            138   1.2e-40  134.4   0.3   1   1   1.8e-42   1.3e-40  134.3   0.3     2   137     1   130     1   131 0.98 -
+d1k3ya1a.45.1.1      -            142 d1gnwa1a.45.1.1.aln  -            138   3.2e-40  133.0   0.0   1   1   4.9e-42   3.5e-40  132.9   0.0     1   137     1   134     1   135 0.98 -
+d1k0ma1a.45.1.1      -            149 d1gnwa1a.45.1.1.aln  -            138   1.1e-39  131.3   0.0   1   1   1.7e-41   1.2e-39  131.2   0.0     2   137     7   148     6   149 0.98 -
+d1tw9a1a.45.1.1      -            129 d1gnwa1a.45.1.1.aln  -            138   1.1e-38  128.1   0.0   1   1   1.6e-40   1.2e-38  128.0   0.0     2   128     1   128     1   129 0.99 -
+d2cvda1a.45.1.1      -            124 d1gnwa1a.45.1.1.aln  -            138     7e-38  125.4   0.1   1   1   1.1e-39   7.7e-38  125.3   0.1     1   129     2   124     2   124 0.99 -
+d2fnoa1a.45.1.1      -            149 d1gnwa1a.45.1.1.aln  -            138   2.2e-35  117.4   0.0   1   1   3.4e-37   2.4e-35  117.2   0.0     2   137     1   140     1   141 0.98 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1gnwa1a.45.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1gnwa1a.45.1.1.out -E 1 hmmModels30/d1gnwa1a.45.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:44 2023
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1qdda_d.169.1.1     -            144 d1qo3c_d.169.1.1.aln -            132   1.2e-39  131.3   3.0   1   1   2.2e-41   1.3e-39  131.2   3.0     2   130    13   143    12   144 0.98 -
+d1wmza_d.169.1.1     -            140 d1qo3c_d.169.1.1.aln -            132   1.2e-32  108.7   7.6   1   1   2.2e-34   1.3e-32  108.5   7.6     2   130     2   138     1   140 0.92 -
+d2ziba_d.169.1.1     -            130 d1qo3c_d.169.1.1.aln -            132   4.6e-31  103.5   2.8   1   1   8.4e-33   5.1e-31  103.4   2.8     3   131     7   129     5   130 0.92 -
+d1gz2a_d.169.1.1     -            139 d1qo3c_d.169.1.1.aln -            132   6.6e-29   96.6   0.0   1   1   1.2e-30   7.5e-29   96.4   0.0     3   130     2   138     1   139 0.91 -
+d3l9jc_d.169.1.1     -            134 d1qo3c_d.169.1.1.aln -            132   3.7e-28   94.2   2.2   1   1   7.2e-30   4.4e-28   93.9   2.2    10   129    10   132     5   134 0.93 -
+d1wk1a_d.169.1.1     -            150 d1qo3c_d.169.1.1.aln -            132   7.5e-27   89.9   0.0   1   1   1.5e-28   9.1e-27   89.6   0.0     8   131     4   131     1   132 0.91 -
+d1g1ta1d.169.1.1     -            118 d1qo3c_d.169.1.1.aln -            132   2.8e-26   88.0   5.5   1   1   5.1e-28   3.1e-26   87.9   5.5    14   127     2   117     1   118 0.92 -
+d1pwba1d.169.1.1     -            121 d1qo3c_d.169.1.1.aln -            132   1.7e-25   85.5   0.0   1   1     3e-27   1.8e-25   85.4   0.0     8   129     4   121     1   121 0.95 -
+d1qo3c_d.169.1.1     -            133 d1qo3c_d.169.1.1.aln -            132     3e-25   84.7   5.1   1   1   5.8e-27   3.5e-25   84.5   5.1     6   130    17   131    13   133 0.91 -
+d3hupa_d.169.1.1     -            121 d1qo3c_d.169.1.1.aln -            132   3.5e-25   84.5  10.8   1   1   6.4e-27   3.9e-25   84.4  10.8     2   130     6   119     5   121 0.88 -
+d1h8ua_d.169.1.1     -            115 d1qo3c_d.169.1.1.aln -            132   3.9e-23   77.9   2.4   1   1     7e-25   4.2e-23   77.8   2.4    15   128     2   114     1   115 0.95 -
+d1byfa_d.169.1.1     -            123 d1qo3c_d.169.1.1.aln -            132   6.2e-21   70.8   0.1   1   1   1.2e-22   7.2e-21   70.5   0.1    17   131     6   122     2   123 0.91 -
+d1kg0c_d.169.1.1     -            136 d1qo3c_d.169.1.1.aln -            132     3e-15   52.4   4.2   1   1   6.3e-17   3.8e-15   52.0   4.2     3   131    17   135    15   136 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d1qo3c_d.169.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d1qo3c_d.169.1.1.out -E 1 hmmModels95/d1qo3c_d.169.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:53:59 2023
+# [ok]

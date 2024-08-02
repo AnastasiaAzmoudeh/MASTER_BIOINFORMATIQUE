@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ohwa_c.67.1.4      -            461 d2dkja_c.67.1.4.aln  -            395  3.9e-174  574.6   0.0   1   1  5.5e-176  4.4e-174  574.4   0.0     1   395    14   458    14   458 1.00 -
+d1zoda_c.67.1.4      -            431 d2dkja_c.67.1.4.aln  -            395    1e-143  474.4   0.0   1   1  1.4e-145  1.1e-143  474.3   0.0     1   394     2   426     2   427 0.99 -
+d3piua_c.67.1.4      -            416 d2dkja_c.67.1.4.aln  -            395  8.5e-128  422.0   0.0   1   1  1.2e-129  9.5e-128  421.8   0.0     1   395     1   412     1   412 0.99 -
+d1vefa1c.67.1.4      -            387 d2dkja_c.67.1.4.aln  -            395    5e-123  406.3   0.0   1   1    7e-125  5.6e-123  406.1   0.0     4   394     1   385     1   386 0.99 -
+d2bwna1c.67.1.4      -            396 d2dkja_c.67.1.4.aln  -            395  1.5e-122  404.7   0.0   1   1  2.2e-124  1.7e-122  404.5   0.0     2   395     6   396     5   396 0.99 -
+d1bs0a_c.67.1.4      -            383 d2dkja_c.67.1.4.aln  -            395  6.8e-122  402.5   0.0   1   1  9.6e-124  7.5e-122  402.4   0.0     4   393     1   381     1   383 0.99 -
+d2fnua_c.67.1.4      -            373 d2dkja_c.67.1.4.aln  -            395    7e-108  356.4   2.1   1   1    1e-109  7.9e-108  356.2   2.1     2   392     4   373     3   373 1.00 -
+d1o69a_c.67.1.4      -            374 d2dkja_c.67.1.4.aln  -            395  6.9e-105  346.5   0.4   1   1  9.8e-107  7.7e-105  346.4   0.4    11   392     2   374     1   374 0.99 -
+d1w23a_c.67.1.4      -            360 d2dkja_c.67.1.4.aln  -            395  1.7e-103  341.9   0.3   1   1  2.5e-105    2e-103  341.8   0.3    17   394     1   360     1   360 0.99 -
+d2epja_c.67.1.0      -            426 d2dkja_c.67.1.4.aln  -            395   1.2e-15   52.8   0.0   1   1   3.5e-17   2.8e-15   51.5   0.0    27   356    35   379    31   393 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2dkja_c.67.1.4.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2dkja_c.67.1.4.out -E 1 hmmModels30/d2dkja_c.67.1.4.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:53 2023
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2efja_c.66.1.0      -            377 d3d2la_c.66.1.0.aln  -            255  1.1e-134  443.2   0.3   1   1    1e-136  1.4e-134  443.0   0.3     1   255    25   302    25   302 1.00 -
+d3evfa_c.66.1.0      -            261 d3d2la_c.66.1.0.aln  -            255   7.5e-59  194.8   0.0   1   1   6.4e-61   8.4e-59  194.6   0.0     1   253     8   242     8   244 0.99 -
+d2nyua_c.66.1.0      -            189 d3d2la_c.66.1.0.aln  -            255   3.2e-25   84.6   0.0   1   1     3e-27   3.9e-25   84.3   0.0    78   244    24   187     2   189 0.95 -
+d3c3pa_c.66.1.0      -            210 d3d2la_c.66.1.0.aln  -            255   6.4e-24   80.3   0.0   1   1   1.4e-25   1.8e-23   78.8   0.0    20   251     2   208     1   210 0.97 -
+d3doua_c.66.1.0      -            181 d3d2la_c.66.1.0.aln  -            255   1.4e-20   69.4   0.0   1   1   1.3e-22   1.7e-20   69.1   0.0    78   245    24   179    21   181 0.98 -
+d3e05a_c.66.1.0      -            191 d3d2la_c.66.1.0.aln  -            255   6.4e-18   60.7   0.0   1   1   5.4e-20     7e-18   60.5   0.0    29   244     1   190     1   191 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d3d2la_c.66.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d3d2la_c.66.1.0.out -E 1 hmmModels95/d3d2la_c.66.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:38 2023
+# [ok]

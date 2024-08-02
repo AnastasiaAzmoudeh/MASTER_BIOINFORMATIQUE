@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1gu2a_a.3.1.1       -            124 d1e29a_a.3.1.1.aln   -            118   7.1e-45  147.8   0.1   1   1   6.9e-47   7.8e-45  147.7   0.1     2   118     2   121     1   121 0.99 -
+d1h32b_a.3.1.1       -            138 d1e29a_a.3.1.1.aln   -            118     1e-43  144.1   0.0   1   1   9.9e-46   1.1e-43  144.0   0.0     2   118     9   138     8   138 0.99 -
+d1c52a_a.3.1.1       -            131 d1e29a_a.3.1.1.aln   -            118   2.5e-41  136.4   0.4   1   1   2.5e-43   2.8e-41  136.2   0.4     3   118     1   126     1   126 0.99 -
+d1i8oa_a.3.1.1       -            114 d1e29a_a.3.1.1.aln   -            118   8.7e-40  131.4   0.8   1   1   8.5e-42   9.5e-40  131.3   0.8     1   117     1   114     1   114 0.99 -
+d1dw0a_a.3.1.1       -            112 d1e29a_a.3.1.1.aln   -            118   2.4e-36  120.3   0.0   1   1   2.4e-38   2.7e-36  120.2   0.0     2   116     2   112     1   112 0.98 -
+d1wvec_a.3.1.1       -             75 d1e29a_a.3.1.1.aln   -            118   5.1e-17   58.0   0.0   1   1   4.9e-19   5.6e-17   57.8   0.0    34   117     2    73     1    74 0.96 -
+d1c75a_a.3.1.1       -             71 d1e29a_a.3.1.1.aln   -            118   4.8e-16   54.8   0.1   1   1   4.5e-18   5.1e-16   54.7   0.1    37   117     2    71     1    71 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1e29a_a.3.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1e29a_a.3.1.1.out -E 1 hmmModels30/d1e29a_a.3.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:43 2023
+# [ok]

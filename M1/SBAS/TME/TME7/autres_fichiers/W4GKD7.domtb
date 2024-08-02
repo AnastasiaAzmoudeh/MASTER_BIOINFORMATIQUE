@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+tr|W4GKD7|W4GKD7_APHAT -            155 PF00240              -             72   7.2e-38  114.5   0.5   1   1   7.2e-38   7.2e-38  114.5   0.5     1    72     3    74     3    74 0.99 Ubiquitin-40S ribosomal protein S27a OS=Aphanomyces astaci OX=112090 GN=H257_07035 PE=3 SV=1
+tr|W4GKD7|W4GKD7_APHAT -            155 Ribosomal_S27        PF01599.22    44   1.5e-30   91.2   3.3   1   1   3.8e-30   3.8e-30   89.9   3.3     1    44   102   147   102   147 0.98 Ubiquitin-40S ribosomal protein S27a OS=Aphanomyces astaci OX=112090 GN=H257_07035 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      Ribosomal_S27_ubiquitin2.hmm
+# Target file:     W4GKD7.fasta
+# Option settings: hmmsearch --domtblout W4GKD7bis.domtb --cut_ga Ribosomal_S27_ubiquitin2.hmm W4GKD7.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME7
+# Date:            Tue Apr  4 16:13:41 2023
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2nuja1d.38.1.1      -            159 d1njka_d.38.1.1.aln  -            140   8.5e-58  190.0   0.0   1   1   1.6e-59   9.7e-58  189.8   0.0     2   140    20   159    19   159 0.99 -
+d1vpma_d.38.1.1      -            155 d1njka_d.38.1.1.aln  -            140   1.2e-44  147.3   0.2   1   1   2.3e-46   1.4e-44  147.2   0.2     2   140     7   142     6   142 0.99 -
+d2hlja1d.38.1.1      -            156 d1njka_d.38.1.1.aln  -            140   2.9e-44  146.1   0.1   1   1   5.4e-46   3.3e-44  146.0   0.1     2   140     1   142     1   142 0.99 -
+d2oafa1d.38.1.1      -            143 d1njka_d.38.1.1.aln  -            140   1.3e-41  137.6   0.0   1   1   2.3e-43   1.4e-41  137.4   0.0     2   135     5   141     4   143 0.98 -
+d1lo7a_d.38.1.1      -            140 d1njka_d.38.1.1.aln  -            140   4.4e-41  135.8   0.0   1   1   7.9e-43   4.8e-41  135.7   0.0     5   139     3   137     1   138 0.98 -
+d2hx5a1d.38.1.1      -            144 d1njka_d.38.1.1.aln  -            140   2.7e-40  133.3   0.0   1   1   4.9e-42     3e-40  133.1   0.0     2   140     3   142     2   142 0.99 -
+d3bjka_d.38.1.1      -            140 d1njka_d.38.1.1.aln  -            140   3.5e-40  132.9   0.0   1   1   6.3e-42   3.8e-40  132.8   0.0     4   138     3   137     1   139 0.97 -
+d3qy3a1d.38.1.1      -            130 d1njka_d.38.1.1.aln  -            140     8e-39  128.5   0.1   1   1   1.4e-40   8.7e-39  128.4   0.1     4   131     2   129     1   130 0.98 -
+d2oiwa1d.38.1.1      -            131 d1njka_d.38.1.1.aln  -            140     2e-38  127.2   0.5   1   1   3.6e-40   2.2e-38  127.1   0.5     5   137     1   130     1   131 0.99 -
+d2gf6a1d.38.1.1      -            134 d1njka_d.38.1.1.aln  -            140   1.3e-37  124.6   0.0   1   1   2.2e-39   1.4e-37  124.5   0.0     2   133     2   133     1   134 0.98 -
+d1s5ua_d.38.1.1      -            129 d1njka_d.38.1.1.aln  -            140   1.2e-36  121.5   1.0   1   1   2.1e-38   1.3e-36  121.4   1.0     5   132     2   128     1   129 0.97 -
+d2gvha1d.38.1.1      -            135 d1njka_d.38.1.1.aln  -            140     3e-36  120.2   0.4   1   1   5.4e-38   3.3e-36  120.0   0.4     2   135     5   135     4   135 0.98 -
+d1njka_d.38.1.1      -            133 d1njka_d.38.1.1.aln  -            140    0.0043   12.7   0.1   1   1   0.00011    0.0068   12.1   0.1     9    80     5    75     2   130 0.68 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1njka_d.38.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1njka_d.38.1.1.out -E 1 hmmModels30/d1njka_d.38.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:47 2023
+# [ok]

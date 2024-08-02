@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3hl8a_c.55.3.5      -            470 d1wlja_c.55.3.5.aln  -            283  7.9e-131  431.1   2.9   1   1  1.7e-132  9.6e-131  430.9   2.9     1   283    99   459    99   459 1.00 -
+d1s5ja1c.55.3.5      -            410 d1wlja_c.55.3.5.aln  -            283   2.1e-81  269.0   2.3   1   1   4.5e-83   2.6e-81  268.7   2.3     2   282    39   405    38   406 0.99 -
+d1q8ia1c.55.3.5      -            388 d1wlja_c.55.3.5.aln  -            283   9.5e-75  247.1   0.0   1   1   1.9e-76   1.1e-74  247.0   0.0     2   282    32   385    31   386 0.99 -
+d2hbja2c.55.3.5      -            292 d1wlja_c.55.3.5.aln  -            283   4.5e-52  172.7   1.5   1   1   8.9e-54     5e-52  172.6   1.5     3   282     2   289     1   290 0.99 -
+d3mxma_c.55.3.5      -            229 d1wlja_c.55.3.5.aln  -            283   6.7e-42  139.4   0.0   1   1   1.4e-43   7.8e-42  139.1   0.0    33   274     4   229     2   229 0.99 -
+d2igia_c.55.3.5      -            180 d1wlja_c.55.3.5.aln  -            283   1.2e-24   82.8   0.1   1   1   2.3e-26   1.3e-24   82.6   0.1    33   257     2   179     1   180 0.97 -
+d1w0ha_c.55.3.5      -            200 d1wlja_c.55.3.5.aln  -            283   1.3e-24   82.6   0.1   1   1   2.8e-26   1.6e-24   82.3   0.1     3   253     3   189     1   200 0.93 -
+d1x9ma1c.55.3.5      -            204 d1wlja_c.55.3.5.aln  -            283   7.5e-22   73.6   0.1   1   1   1.6e-23   8.7e-22   73.4   0.1    25   281     2   198     1   200 0.97 -
+d1kfsa1c.55.3.5      -            195 d1wlja_c.55.3.5.aln  -            283   2.9e-21   71.6   0.4   1   1   1.4e-22   8.1e-21   70.2   0.4     9   268     4   195     1   195 0.98 -
+d2f96a1c.55.3.5      -            202 d1wlja_c.55.3.5.aln  -            283     2e-17   59.1   0.0   1   1   4.3e-19   2.4e-17   58.8   0.0    15   273     2   202     1   202 0.97 -
+d2py5a1c.55.3.5      -            183 d1wlja_c.55.3.5.aln  -            283   4.4e-17   57.9   0.1   1   1   8.9e-19     5e-17   57.7   0.1    26   191     1   162     1   180 0.91 -
+d1vk0a_c.55.3.5      -            206 d1wlja_c.55.3.5.aln  -            283   3.8e-15   51.6   0.0   1   1   1.4e-16   8.1e-15   50.5   0.0     9   267     5   204     1   206 0.94 -
+d2guia_c.55.3.5      -            176 d1wlja_c.55.3.5.aln  -            283     3e-14   48.6   0.0   1   1   6.2e-16   3.5e-14   48.4   0.0    21   198     2   167     1   173 0.94 -
+d1yt3a3c.55.3.5      -            193 d1wlja_c.55.3.5.aln  -            283   5.2e-14   47.8   0.0   1   1   1.1e-15   6.2e-14   47.6   0.0    11   187     2   163     1   192 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d1wlja_c.55.3.5.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d1wlja_c.55.3.5.out -E 1 hmmModels95/d1wlja_c.55.3.5.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:10 2023
+# [ok]

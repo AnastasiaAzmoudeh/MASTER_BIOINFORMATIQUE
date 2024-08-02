@@ -1,0 +1,27 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2vpaa_b.45.1.1      -            215 d2arza1b.45.1.1.aln  -            156   2.1e-69  227.8   0.0   1   1   4.5e-71   2.5e-69  227.5   0.0     1   156    39   207    39   207 0.99 -
+d2fura1b.45.1.1      -            193 d2arza1b.45.1.1.aln  -            156   7.1e-57  187.1   0.0   1   1   1.4e-58   8.1e-57  186.9   0.0     2   156     2   179     1   179 0.99 -
+d1xhna1b.45.1.1      -            170 d2arza1b.45.1.1.aln  -            156   1.3e-38  127.8   0.0   1   1   2.6e-40   1.4e-38  127.6   0.0     2   155     4   170     3   170 0.98 -
+d1rfea_b.45.1.1      -            160 d2arza1b.45.1.1.aln  -            156   4.9e-38  125.9   0.0   1   1   9.6e-40   5.4e-38  125.7   0.0     2   155     7   159     6   160 0.98 -
+d2i02a1b.45.1.1      -            143 d2arza1b.45.1.1.aln  -            156   3.1e-36  120.0   0.1   1   1     6e-38   3.4e-36  119.9   0.1     2   151     3   142     2   143 0.98 -
+d2fg9a1b.45.1.1      -            157 d2arza1b.45.1.1.aln  -            156   1.4e-33  111.4   0.0   1   1   2.8e-35   1.6e-33  111.3   0.0     3   154     5   155     3   157 0.97 -
+d2hq7a1b.45.1.1      -            141 d2arza1b.45.1.1.aln  -            156   1.5e-33  111.3   0.0   1   1   2.9e-35   1.6e-33  111.2   0.0     4   151     4   140     1   141 0.97 -
+d2htia1b.45.1.1      -            156 d2arza1b.45.1.1.aln  -            156   2.7e-33  110.5   0.0   1   1   5.3e-35     3e-33  110.3   0.0     3   156     2   155     1   155 0.98 -
+d2hq9a1b.45.1.1      -            148 d2arza1b.45.1.1.aln  -            156   3.8e-32  106.8   0.0   1   1   7.3e-34   4.1e-32  106.6   0.0     2   152     4   148     3   148 0.97 -
+d2fhqa1b.45.1.1      -            135 d2arza1b.45.1.1.aln  -            156   6.4e-31  102.8   0.0   1   1   1.2e-32     7e-31  102.6   0.0     4   148     3   134     1   135 0.97 -
+d1w9aa_b.45.1.1      -            142 d2arza1b.45.1.1.aln  -            156   3.7e-29   97.0   0.0   1   1   7.1e-31     4e-29   96.9   0.0     5   149     1   138     1   142 0.97 -
+d1vl7a_b.45.1.1      -            135 d2arza1b.45.1.1.aln  -            156   1.3e-22   75.8   0.0   1   1   2.4e-24   1.4e-22   75.7   0.0    10   146     2   129     1   135 0.93 -
+d2asfa1b.45.1.1      -            125 d2arza1b.45.1.1.aln  -            156   1.2e-19   66.2   0.0   1   1   2.6e-21   1.5e-19   65.9   0.0     7   132     2   104     1   124 0.91 -
+d3a6ra_b.45.1.1      -            122 d2arza1b.45.1.1.aln  -            156   5.3e-12   41.3   0.0   1   1   1.1e-13   6.4e-12   41.0   0.0     7   153     4   120     1   122 0.95 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2arza1b.45.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2arza1b.45.1.1.out -E 1 hmmModels30/d2arza1b.45.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:53 2023
+# [ok]

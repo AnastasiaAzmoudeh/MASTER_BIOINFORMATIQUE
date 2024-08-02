@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3r6ua_c.94.1.0      -            272 d2q88a_c.94.1.0.aln  -            235  1.1e-103  341.2   2.0   1   1  1.6e-105  1.2e-103  341.0   2.0     1   235     1   259     1   259 1.00 -
+d3tqla_c.94.1.0      -            227 d2q88a_c.94.1.0.aln  -            235   1.1e-95  315.1   0.0   1   1   1.5e-97   1.2e-95  314.9   0.0     1   228     2   227     2   227 0.99 -
+d3kzga_c.94.1.0      -            228 d2q88a_c.94.1.0.aln  -            235   2.6e-90  297.4   0.2   1   1   3.6e-92   2.8e-90  297.3   0.2     2   228     4   228     3   228 0.99 -
+d3delb_c.94.1.0      -            232 d2q88a_c.94.1.0.aln  -            235   2.8e-88  290.8   0.0   1   1   4.2e-90   3.3e-88  290.5   0.0     2   235     2   228     1   228 0.99 -
+d3h7ma_c.94.1.0      -            228 d2q88a_c.94.1.0.aln  -            235   3.8e-82  270.7   0.0   1   1   5.3e-84   4.2e-82  270.5   0.0     1   233     5   228     5   228 0.99 -
+d3i6va_c.94.1.0      -            218 d2q88a_c.94.1.0.aln  -            235   2.3e-79  261.6   0.0   1   1   3.3e-81   2.6e-79  261.4   0.0     2   235     1   218     1   218 0.99 -
+d1xt8a1c.94.1.1      -            248 d2q88a_c.94.1.0.aln  -            235   1.2e-21   72.7   0.3   1   1   1.9e-23   1.5e-21   72.4   0.3     3   224    13   227    11   234 0.90 -
+d2q88a_c.94.1.0      -            257 d2q88a_c.94.1.0.aln  -            235   2.3e-14   48.9   0.0   1   1   4.5e-16   3.6e-14   48.2   0.0     9   228    20   239    17   246 0.86 -
+d1ii5a_c.94.1.1      -            226 d2q88a_c.94.1.0.aln  -            235     2e-10   35.9   0.0   1   1   2.9e-12   2.3e-10   35.8   0.0    12   177    14   182     6   226 0.81 -
+d1pb7a_c.94.1.1      -            289 d2q88a_c.94.1.0.aln  -            235   9.7e-06   20.6   0.0   1   1   5.1e-07     4e-05   18.6   0.0    24   199    61   254    59   287 0.65 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2q88a_c.94.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2q88a_c.94.1.0.out -E 1 hmmModels30/d2q88a_c.94.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:56 2023
+# [ok]

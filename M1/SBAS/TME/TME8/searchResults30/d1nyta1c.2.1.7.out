@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3mw9a1c.2.1.7       -            293 d1nyta1c.2.1.7.aln   -            221   1.4e-90  298.5   0.0   1   1   3.1e-92   1.6e-90  298.3   0.0     1   221     6   285     6   285 1.00 -
+d1o0sa1c.2.1.7       -            308 d1nyta1c.2.1.7.aln   -            221   6.7e-87  286.5   0.2   1   1   1.5e-88   7.8e-87  286.3   0.2     1   221    10   303    10   303 0.99 -
+d1euza1c.2.1.7       -            239 d1nyta1c.2.1.7.aln   -            221   1.2e-79  262.7   2.0   1   1   2.7e-81   1.4e-79  262.5   2.0     1   221     6   231     6   231 0.99 -
+d1bgva1c.2.1.7       -            255 d1nyta1c.2.1.7.aln   -            221   1.4e-77  256.0   2.2   1   1   3.1e-79   1.6e-77  255.8   2.2     2   221    11   248    10   248 0.99 -
+d1vl6a1c.2.1.7       -            222 d1nyta1c.2.1.7.aln   -            221   1.2e-59  197.4   0.4   1   1   2.5e-61   1.3e-59  197.2   0.4     6   220     1   221     1   222 0.99 -
+d1c1da1c.2.1.7       -            201 d1nyta1c.2.1.7.aln   -            221   9.8e-54  178.0   1.3   1   1   2.1e-55   1.1e-53  177.9   1.3     3   220     2   200     1   201 0.98 -
+d1luaa1c.2.1.7       -            191 d1nyta1c.2.1.7.aln   -            221   2.4e-40  134.2   3.7   1   1   5.1e-42   2.7e-40  134.1   3.7     1   217     1   191     1   191 0.98 -
+d1edza1c.2.1.7       -            171 d1nyta1c.2.1.7.aln   -            221   6.2e-34  113.3   0.0   1   1   2.7e-35   1.4e-33  112.1   0.0     3   160     2   152     1   171 0.95 -
+d1npya1c.2.1.7       -            167 d1nyta1c.2.1.7.aln   -            221   5.3e-30  100.4   4.3   1   1   1.3e-31   7.1e-30  100.0   4.3     6   217     1   167     1   167 0.98 -
+d1gpja2c.2.1.7       -            159 d1nyta1c.2.1.7.aln   -            221     4e-25   84.5   4.9   1   1   5.3e-25   2.8e-23   78.5   4.9     3   218     2   158     1   159 0.98 -
+d1cf2o1c.2.1.3       -            172 d1nyta1c.2.1.7.aln   -            221    0.0011   14.3   0.4   1   1   2.9e-05    0.0015   13.9   0.4    29    63     2    36     1   102 0.85 -
+d1kola2c.2.1.1       -            195 d1nyta1c.2.1.7.aln   -            221    0.0023   13.3   0.1   1   1   5.6e-05    0.0029   13.0   0.1    28    61    26    58    14   101 0.80 -
+d1vj0a2c.2.1.1       -            182 d1nyta1c.2.1.7.aln   -            221    0.0031   12.9   0.0   1   1   7.3e-05    0.0038   12.6   0.0    16    61    14    62     8   108 0.85 -
+d2iida1c.3.1.2       -            371 d1nyta1c.2.1.7.aln   -            221    0.0034   12.8   0.0   1   1   9.6e-05    0.0051   12.2   0.0    16    62    18    63    13   124 0.76 -
+d1b5qa1c.3.1.2       -            348 d1nyta1c.2.1.7.aln   -            221    0.0062   11.9   0.1   1   1   0.00024     0.013   10.9   0.1    31    64     3    36     2   127 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1nyta1c.2.1.7.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1nyta1c.2.1.7.out -E 1 hmmModels30/d1nyta1c.2.1.7.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:47 2023
+# [ok]

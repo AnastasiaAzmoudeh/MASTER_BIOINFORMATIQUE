@@ -1,0 +1,26 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ohwa_c.67.1.4      -            461 d2fnua_c.67.1.4.aln  -            416  5.4e-129  426.0   0.0   1   1    1e-130  6.1e-129  425.8   0.0     2   416    12   461    11   461 0.99 -
+d2dkja_c.67.1.4      -            402 d2fnua_c.67.1.4.aln  -            416  3.5e-122  403.6   0.0   1   1  6.9e-124  4.2e-122  403.3   0.0     2   406     3   397     2   400 0.99 -
+d1zoda_c.67.1.4      -            431 d2fnua_c.67.1.4.aln  -            416  1.7e-100  332.1   0.0   1   1  3.2e-102  1.9e-100  331.9   0.0     4   414     2   428     1   430 0.98 -
+d1vefa1c.67.1.4      -            387 d2fnua_c.67.1.4.aln  -            416   3.1e-96  318.1   0.0   1   1   5.7e-98   3.4e-96  318.0   0.0     9   413     3   386     1   387 0.97 -
+d3piua_c.67.1.4      -            416 d2fnua_c.67.1.4.aln  -            416   7.3e-93  307.0   0.0   1   1   1.3e-94   8.1e-93  306.8   0.0    14   415     1   413     1   414 0.99 -
+d1bs0a_c.67.1.4      -            383 d2fnua_c.67.1.4.aln  -            416   1.2e-73  243.7   0.0   1   1   2.2e-75   1.3e-73  243.6   0.0     7   410     1   380     1   383 0.98 -
+d1w23a_c.67.1.4      -            360 d2fnua_c.67.1.4.aln  -            416   3.8e-72  238.7   0.0   1   1     7e-74   4.3e-72  238.6   0.0    17   411     2   359     1   360 0.98 -
+d2bwna1c.67.1.4      -            396 d2fnua_c.67.1.4.aln  -            416   8.6e-68  224.4   0.1   1   1   1.6e-69   9.6e-68  224.3   0.1     2   411     3   394     2   396 0.98 -
+d2epja_c.67.1.0      -            426 d2fnua_c.67.1.4.aln  -            416   2.9e-59  196.3   0.5   1   1   6.3e-61   3.8e-59  195.9   0.5    19   386    24   393    20   410 0.93 -
+d1o69a_c.67.1.4      -            374 d2fnua_c.67.1.4.aln  -            416   1.8e-53  177.2   0.0   1   1   3.4e-55     2e-53  177.1   0.0    25   413     2   373     1   374 0.99 -
+d2c81a_c.67.1.0      -            409 d2fnua_c.67.1.4.aln  -            416   1.5e-05   19.4   0.0   1   1   3.5e-07   2.1e-05   18.9   0.0    74   214    68   198    63   201 0.90 -
+d2gb3a1c.67.1.1      -            389 d2fnua_c.67.1.4.aln  -            416    0.0022   12.3   0.0   1   1   6.9e-05    0.0042   11.3   0.0   105   236    88   208    81   215 0.71 -
+d2fnua_c.67.1.4      -            373 d2fnua_c.67.1.4.aln  -            416    0.0056   10.9   0.0   1   1   0.00024     0.015    9.5   0.0   103   221    46   203    36   211 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d2fnua_c.67.1.4.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d2fnua_c.67.1.4.out -E 1 hmmModels95/d2fnua_c.67.1.4.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:23 2023
+# [ok]

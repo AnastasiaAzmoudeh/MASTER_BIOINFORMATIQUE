@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1h32b_a.3.1.1       -            138 d1dw0a_a.3.1.1.aln   -            109   1.1e-38  127.9   0.0   1   2       1.8   1.8e+02   -1.4   0.1    25    42     5    22     2    25 0.80 -
+d1h32b_a.3.1.1       -            138 d1dw0a_a.3.1.1.aln   -            109   1.1e-38  127.9   0.0   2   2   2.9e-40   2.9e-38  126.6   0.0     1   108    29   138    29   138 0.98 -
+d1i8oa_a.3.1.1       -            114 d1dw0a_a.3.1.1.aln   -            109   4.1e-34  113.3   0.1   1   1   4.6e-36   4.5e-34  113.1   0.1     1   107     1   114     1   114 0.99 -
+d1c52a_a.3.1.1       -            131 d1dw0a_a.3.1.1.aln   -            109   3.7e-33  110.2   0.0   1   1   4.2e-35   4.1e-33  110.1   0.0     4   108     1   121     1   122 0.98 -
+d1e29a_a.3.1.1       -            135 d1dw0a_a.3.1.1.aln   -            109   2.1e-32  107.8   0.0   1   1   2.5e-34   2.5e-32  107.6   0.0     1   109    24   125    24   125 0.98 -
+d1gu2a_a.3.1.1       -            124 d1dw0a_a.3.1.1.aln   -            109   8.7e-32  105.8   0.3   1   1   9.8e-34   9.6e-32  105.6   0.3     2   109     1   122     1   122 0.99 -
+d1wvec_a.3.1.1       -             75 d1dw0a_a.3.1.1.aln   -            109   7.7e-14   48.0   0.1   1   1   4.1e-14   4.1e-12   42.5   0.1     2   108     2    74     1    75 0.95 -
+d1c75a_a.3.1.1       -             71 d1dw0a_a.3.1.1.aln   -            109   3.5e-10   36.3   0.1   1   1   5.6e-12   5.5e-10   35.6   0.1     5   107     2    71     1    71 0.95 -
+d1dw0a_a.3.1.1       -            112 d1dw0a_a.3.1.1.aln   -            109    0.0014   15.0   0.0   1   1   0.00044     0.043   10.2   0.0    57   105    58   111    31   112 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1dw0a_a.3.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1dw0a_a.3.1.1.out -E 1 hmmModels30/d1dw0a_a.3.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:43 2023
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3bpza_b.82.3.2      -            194 d1zyba2b.82.3.2.aln  -            141   8.5e-69  225.2   0.1   1   1   1.8e-70   1.2e-68  224.7   0.1     1   141    59   194    59   194 0.99 -
+d1o7fa2b.82.3.2      -            155 d1zyba2b.82.3.2.aln  -            141   9.7e-46  150.4   0.0   1   1   1.7e-47   1.1e-45  150.3   0.0     2   139    16   154    15   155 0.97 -
+d1cx4a2b.82.3.2      -            147 d1zyba2b.82.3.2.aln  -            141   4.4e-43  141.8   0.1   1   1   7.4e-45   4.8e-43  141.7   0.1    10   139     2   137     1   139 0.98 -
+d1cx4a1b.82.3.2      -            136 d1zyba2b.82.3.2.aln  -            141     8e-42  137.7   0.0   1   1   1.4e-43   8.9e-42  137.6   0.0     2   131     8   136     7   136 0.98 -
+d1vp6a_b.82.3.2      -            133 d1zyba2b.82.3.2.aln  -            141   1.8e-40  133.4   0.0   1   1   2.9e-42   1.9e-40  133.3   0.0     2   138     3   132     2   133 0.98 -
+d1o7fa3b.82.3.2      -            124 d1zyba2b.82.3.2.aln  -            141   3.3e-37  122.8   0.0   1   1   5.5e-39   3.6e-37  122.7   0.0     2   124     2   122     1   124 0.97 -
+d2gaua2b.82.3.2      -            142 d1zyba2b.82.3.2.aln  -            141     2e-36  120.3   0.0   1   1   3.3e-38   2.2e-36  120.1   0.0    13   140     3   131     1   132 0.97 -
+d1wgpa_b.82.3.2      -            137 d1zyba2b.82.3.2.aln  -            141   1.3e-34  114.4   0.0   1   1     2e-36   1.3e-34  114.3   0.0     7   135     3   134     1   137 0.96 -
+d3e5ua2b.82.3.2      -            139 d1zyba2b.82.3.2.aln  -            141   8.4e-34  111.7   0.0   1   1   1.4e-35   9.2e-34  111.6   0.0    10   140     1   139     1   139 0.99 -
+d1o5la1b.82.3.2      -            129 d1zyba2b.82.3.2.aln  -            141   2.4e-33  110.3   0.0   1   1     4e-35   2.6e-33  110.1   0.0    25   140     2   118     1   119 0.98 -
+d2zcwa2b.82.3.2      -            112 d1zyba2b.82.3.2.aln  -            141   1.2e-21   72.3   0.0   1   1     2e-23   1.3e-21   72.2   0.0    37   140     4   111     1   112 0.94 -
+d1zyba2b.82.3.2      -            147 d1zyba2b.82.3.2.aln  -            141   4.6e-10   34.8   0.0   1   1   7.5e-12     5e-10   34.7   0.0     8   104     4   103     1   139 0.71 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1zyba2b.82.3.2.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1zyba2b.82.3.2.out -E 1 hmmModels30/d1zyba2b.82.3.2.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:53 2023
+# [ok]

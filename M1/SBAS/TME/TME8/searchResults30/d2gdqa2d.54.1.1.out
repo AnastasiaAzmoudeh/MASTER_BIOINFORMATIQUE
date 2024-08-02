@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1kkoa2d.54.1.1      -            160 d2gdqa2d.54.1.1.aln  -            129   5.4e-53  173.9   0.0   1   1   8.6e-55   6.2e-53  173.8   0.0     1   129    20   158    20   158 0.99 -
+d1wuea2d.54.1.1      -            126 d2gdqa2d.54.1.1.aln  -            129   1.1e-44  147.1   0.0   1   1   1.6e-46   1.2e-44  147.0   0.0     2   127     1   126     1   126 0.99 -
+d1yeya2d.54.1.1      -            139 d2gdqa2d.54.1.1.aln  -            129   2.3e-40  133.1   0.2   1   1   3.6e-42   2.6e-40  132.9   0.2     3   128     2   138     1   139 0.99 -
+d2mnra2d.54.1.1      -            130 d2gdqa2d.54.1.1.aln  -            129   4.7e-40  132.1   0.5   1   1   7.2e-42   5.2e-40  132.0   0.5     3   129     3   129     1   129 0.98 -
+d1r0ma2d.54.1.1      -            127 d2gdqa2d.54.1.1.aln  -            129     3e-38  126.3   0.1   1   1   4.6e-40   3.3e-38  126.1   0.1     2   127     3   127     2   127 0.99 -
+d1sjda2d.54.1.1      -            125 d2gdqa2d.54.1.1.aln  -            129   4.7e-38  125.6   0.1   1   1   7.2e-40   5.2e-38  125.5   0.1     2   127     1   125     1   125 0.99 -
+d2gl5a2d.54.1.1      -            122 d2gdqa2d.54.1.1.aln  -            129   1.4e-34  114.4   0.0   1   1   2.1e-36   1.5e-34  114.3   0.0     3   127     2   122     1   122 0.99 -
+d1jpdx2d.54.1.1      -            116 d2gdqa2d.54.1.1.aln  -            129   2.2e-34  113.8   0.0   1   1   3.7e-36   2.6e-34  113.5   0.0     2   127     2   116     1   116 0.99 -
+d2akza2d.54.1.1      -            139 d2gdqa2d.54.1.1.aln  -            129   4.1e-34  112.9   0.0   1   1   6.3e-36   4.5e-34  112.8   0.0     2   129     3   137     2   137 0.99 -
+d1r6wa2d.54.1.1      -            101 d2gdqa2d.54.1.1.aln  -            129   2.2e-24   81.4   0.0   1   1   4.1e-26   2.9e-24   81.0   0.0     2   115     1    99     1   101 0.97 -
+d2gdqa2d.54.1.1      -            115 d2gdqa2d.54.1.1.aln  -            129   1.9e-07   26.6   0.3   1   1   1.7e-07   1.2e-05   20.8   0.3     4   126     3   114     1   115 0.76 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2gdqa2d.54.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2gdqa2d.54.1.1.out -E 1 hmmModels30/d2gdqa2d.54.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:54 2023
+# [ok]

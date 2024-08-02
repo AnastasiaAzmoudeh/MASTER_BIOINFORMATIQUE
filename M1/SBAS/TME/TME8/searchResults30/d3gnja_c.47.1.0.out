@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d3c7ma_c.47.1.0      -            195 d3gnja_c.47.1.0.aln  -            153   5.7e-64  210.1   2.3   1   1   8.1e-66   6.4e-64  210.0   2.3     1   153     1   195     1   195 1.00 -
+d3h93a_c.47.1.0      -            192 d3gnja_c.47.1.0.aln  -            153   5.5e-60  197.2   0.0   1   1   7.9e-62   6.2e-60  197.0   0.0     1   153     6   185     6   185 1.00 -
+d3feua_c.47.1.0      -            183 d3gnja_c.47.1.0.aln  -            153   1.5e-55  182.8   0.1   1   1   2.2e-57   1.7e-55  182.6   0.1     1   153     3   183     3   183 0.99 -
+d2v1ma_c.47.1.0      -            163 d3gnja_c.47.1.0.aln  -            153   1.1e-48  160.5   0.0   1   1   1.6e-50   1.3e-48  160.3   0.0     1   152     7   159     7   160 0.99 -
+d2xhfa_c.47.1.0      -            156 d3gnja_c.47.1.0.aln  -            153   8.6e-42  138.1   0.0   1   1   1.2e-43   9.5e-42  138.0   0.0     1   152     3   152     3   153 0.99 -
+d3h79a_c.47.1.0      -            115 d3gnja_c.47.1.0.aln  -            153   1.4e-25   85.5   0.0   1   1   1.9e-27   1.5e-25   85.4   0.0    38   152     2   112     1   113 0.98 -
+d2hzfa_c.47.1.0      -            110 d3gnja_c.47.1.0.aln  -            153   8.9e-24   79.6   0.0   1   1   1.2e-25   9.6e-24   79.5   0.0    36   148     1   108     1   110 0.98 -
+d2wcia_c.47.1.0      -            113 d3gnja_c.47.1.0.aln  -            153   3.5e-23   77.7   0.0   1   1   4.8e-25   3.8e-23   77.6   0.0    38   152     2   110     1   111 0.98 -
+d3fz4a_c.47.1.0      -            119 d3gnja_c.47.1.0.aln  -            153   7.7e-23   76.6   0.0   1   1   1.1e-24   8.4e-23   76.5   0.0    35   152     2   119     1   119 0.98 -
+d3qmxa_c.47.1.0      -             99 d3gnja_c.47.1.0.aln  -            153   1.8e-20   68.9   0.0   1   1   2.5e-22   1.9e-20   68.8   0.0    36   143     1    98     1    99 0.97 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d3gnja_c.47.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d3gnja_c.47.1.0.out -E 1 hmmModels30/d3gnja_c.47.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:57 2023
+# [ok]

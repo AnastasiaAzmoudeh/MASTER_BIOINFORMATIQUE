@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2hx1a_c.108.1.0     -            284 d2w43a_c.108.1.0.aln -            252   1.8e-99  327.8   0.0   1   1  2.1e-101   2.1e-99  327.7   0.0     1   248    12   283    12   284 0.99 -
+d2x4da_c.108.1.0     -            270 d2w43a_c.108.1.0.aln -            252     1e-91  302.5   0.0   1   1   1.2e-93   1.1e-91  302.3   0.0     2   251    11   269    10   270 0.99 -
+d3fzqa_c.108.1.0     -            271 d2w43a_c.108.1.0.aln -            252   9.1e-90  296.1   7.1   1   1     1e-91     1e-89  295.9   7.1     3   251     2   264     1   265 0.99 -
+d3dnpa_c.108.1.0     -            275 d2w43a_c.108.1.0.aln -            252   2.4e-87  288.2   0.6   1   1   2.7e-89   2.6e-87  288.0   0.6     3   252     1   269     1   269 0.99 -
+d3qnma_c.108.1.0     -            231 d2w43a_c.108.1.0.aln -            252   1.3e-80  266.1   0.0   1   1   1.4e-82   1.4e-80  266.0   0.0     2   248     2   231     1   231 0.99 -
+d2hoqa_c.108.1.0     -            237 d2w43a_c.108.1.0.aln -            252   2.6e-80  265.1   0.0   1   1   2.9e-82   2.9e-80  265.0   0.0     2   251     1   228     1   229 0.99 -
+d2hi0a_c.108.1.0     -            240 d2w43a_c.108.1.0.aln -            252   3.4e-80  264.7   0.0   1   1   3.8e-82   3.8e-80  264.6   0.0     1   250     2   240     2   240 0.99 -
+d2w43a_c.108.1.0     -            201 d2w43a_c.108.1.0.aln -            252   3.8e-08   28.7   0.4   1   2   0.00088     0.087    7.8   0.1     6    25     4    23     3    55 0.70 -
+d2w43a_c.108.1.0     -            201 d2w43a_c.108.1.0.aln -            252   3.8e-08   28.7   0.4   2   2   2.3e-07   2.2e-05   19.6   0.0   115   249    64   199    43   201 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2w43a_c.108.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2w43a_c.108.1.0.out -E 1 hmmModels30/d2w43a_c.108.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:56 2023
+# [ok]

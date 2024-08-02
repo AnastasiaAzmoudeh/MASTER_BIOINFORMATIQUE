@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d2x4da_c.108.1.0     -            270 d2hx1a_c.108.1.0.aln -            255  4.1e-103  339.7   0.0   1   1  4.7e-105  4.6e-103  339.6   0.0     2   255    12   270    11   270 0.99 -
+d3fzqa_c.108.1.0     -            271 d2hx1a_c.108.1.0.aln -            255  2.4e-101  334.0   7.2   1   1  2.7e-103  2.7e-101  333.8   7.2     2   255     2   257     1   257 0.99 -
+d3dnpa_c.108.1.0     -            275 d2hx1a_c.108.1.0.aln -            255  1.9e-100  331.0   0.3   1   1  2.1e-102  2.1e-100  330.9   0.3     2   255     1   257     1   257 0.99 -
+d3qnma_c.108.1.0     -            231 d2hx1a_c.108.1.0.aln -            255   1.4e-81  269.1   0.0   1   1   1.6e-83   1.6e-81  269.0   0.0     1   250     2   230     2   231 0.99 -
+d2hi0a_c.108.1.0     -            240 d2hx1a_c.108.1.0.aln -            255   2.2e-81  268.5   0.0   1   1   2.5e-83   2.5e-81  268.4   0.0     1   253     3   240     3   240 0.99 -
+d2hoqa_c.108.1.0     -            237 d2hx1a_c.108.1.0.aln -            255   3.7e-80  264.5   0.0   1   1   4.2e-82   4.2e-80  264.3   0.0     1   254     1   228     1   229 0.99 -
+d2w43a_c.108.1.0     -            201 d2hx1a_c.108.1.0.aln -            255   1.7e-59  196.8   2.4   1   1   1.4e-59   1.3e-57  190.6   2.4     2   254     1   201     1   201 0.99 -
+d2hx1a_c.108.1.0     -            284 d2hx1a_c.108.1.0.aln -            255   1.6e-07   26.5   0.0   1   1   1.9e-08   1.9e-06   23.0   0.0   118   242   147   274    13   275 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2hx1a_c.108.1.0.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2hx1a_c.108.1.0.out -E 1 hmmModels30/d2hx1a_c.108.1.0.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:55 2023
+# [ok]

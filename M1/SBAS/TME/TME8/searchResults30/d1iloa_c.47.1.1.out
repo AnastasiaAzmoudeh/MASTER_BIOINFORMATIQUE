@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1z6na1c.47.1.1      -            166 d1iloa_c.47.1.1.aln  -            113   3.7e-52  170.6   0.0   1   1   6.2e-54   4.4e-52  170.3   0.0     1   112    30   143    30   144 0.99 -
+d1sena_c.47.1.1      -            135 d1iloa_c.47.1.1.aln  -            113   2.5e-37  122.8   0.0   1   1     4e-39   2.9e-37  122.6   0.0     2   112     2   116     1   117 0.98 -
+d2fwha_c.47.1.1      -            117 d1iloa_c.47.1.1.aln  -            113   3.3e-33  109.5   0.1   1   1   5.1e-35   3.6e-33  109.4   0.1     4   112     1   109     1   110 0.98 -
+d1r26a_c.47.1.1      -            113 d1iloa_c.47.1.1.aln  -            113   3.3e-33  109.5   0.0   1   1     5e-35   3.6e-33  109.4   0.0     2   112     3   112     2   113 0.98 -
+d2i4aa_c.47.1.1      -            107 d1iloa_c.47.1.1.aln  -            113   9.1e-33  108.1   0.0   1   1   1.4e-34     1e-32  108.0   0.0     7   112     2   107     1   107 0.98 -
+d1zmaa1c.47.1.1      -            115 d1iloa_c.47.1.1.aln  -            113   2.8e-31  103.3   0.0   1   1   4.3e-33   3.1e-31  103.1   0.0     1   109     2   114     2   115 0.98 -
+d1wjka_c.47.1.1      -            100 d1iloa_c.47.1.1.aln  -            113   4.3e-23   76.9   0.0   1   1   6.4e-25   4.6e-23   76.8   0.0    12   110     2    98     1   100 0.96 -
+d1abaa_c.47.1.1      -             87 d1iloa_c.47.1.1.aln  -            113   1.6e-19   65.4   0.0   1   1   2.4e-21   1.7e-19   65.3   0.0    25   111     2    86     1    87 0.96 -
+d1ttza_c.47.1.1      -             75 d1iloa_c.47.1.1.aln  -            113   2.9e-13   45.3   0.0   1   1   4.4e-15   3.1e-13   45.1   0.0    29   111     2    74     1    75 0.96 -
+d3gnja_c.47.1.0      -            111 d1iloa_c.47.1.1.aln  -            113   3.1e-08   29.0   0.0   1   1   5.1e-10   3.6e-08   28.8   0.0    14    89    11    86     4   107 0.90 -
+d2hzfa_c.47.1.0      -            110 d1iloa_c.47.1.1.aln  -            113    0.0028   13.1   0.0   1   1   4.6e-05    0.0033   12.9   0.0    29   100    18    87     7    99 0.75 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1iloa_c.47.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1iloa_c.47.1.1.out -E 1 hmmModels30/d1iloa_c.47.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:45 2023
+# [ok]

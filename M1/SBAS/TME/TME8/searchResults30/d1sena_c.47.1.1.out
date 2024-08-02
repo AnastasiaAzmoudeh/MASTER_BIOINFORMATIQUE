@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1z6na1c.47.1.1      -            166 d1sena_c.47.1.1.aln  -            112   4.7e-54  176.6   0.0   1   1   8.7e-56   5.7e-54  176.4   0.0     1   112    33   146    33   146 0.99 -
+d1r26a_c.47.1.1      -            113 d1sena_c.47.1.1.aln  -            112   6.3e-34  111.8   0.0   1   1   1.1e-35   6.9e-34  111.7   0.0     2   111     6   113     5   113 0.98 -
+d2fwha_c.47.1.1      -            117 d1sena_c.47.1.1.aln  -            112   3.3e-30   99.9   0.1   1   1   5.5e-32   3.6e-30   99.7   0.1     1   112     1   117     1   117 0.98 -
+d2i4aa_c.47.1.1      -            107 d1sena_c.47.1.1.aln  -            112   3.8e-30   99.7   0.0   1   1   6.2e-32   4.1e-30   99.6   0.0     4   109     2   106     1   107 0.97 -
+d1zmaa1c.47.1.1      -            115 d1sena_c.47.1.1.aln  -            112   7.1e-30   98.8   0.0   1   1   1.2e-31   7.8e-30   98.7   0.0     2   108     6   115     5   115 0.98 -
+d1wjka_c.47.1.1      -            100 d1sena_c.47.1.1.aln  -            112   6.2e-23   76.4   0.0   1   1     1e-24   6.6e-23   76.3   0.0     8   108     1    96     1   100 0.96 -
+d1abaa_c.47.1.1      -             87 d1sena_c.47.1.1.aln  -            112   3.4e-20   67.6   0.0   1   1   5.6e-22   3.7e-20   67.5   0.0    22   112     2    86     1    86 0.97 -
+d1iloa_c.47.1.1      -             77 d1sena_c.47.1.1.aln  -            112   8.5e-17   56.7   0.1   1   1   1.4e-18   9.2e-17   56.6   0.1    24   103     1    76     1    77 0.94 -
+d1ttza_c.47.1.1      -             75 d1sena_c.47.1.1.aln  -            112   3.1e-13   45.2   0.0   1   1   5.2e-15   3.4e-13   45.1   0.0    26   106     2    74     1    75 0.96 -
+d3gnja_c.47.1.0      -            111 d1sena_c.47.1.1.aln  -            112     9e-08   27.6   0.0   1   1   1.6e-09   1.1e-07   27.4   0.0    11    95    11    94     4   106 0.79 -
+d1sena_c.47.1.1      -            135 d1sena_c.47.1.1.aln  -            112    0.0011   14.5   0.0   1   1   2.1e-05    0.0014   14.1   0.0    16    47    19    50    15   104 0.71 -
+d2hzfa_c.47.1.0      -            110 d1sena_c.47.1.1.aln  -            112    0.0012   14.3   0.0   1   1   2.5e-05    0.0016   13.9   0.0    26    81    18    73     6    79 0.74 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d1sena_c.47.1.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d1sena_c.47.1.1.out -E 1 hmmModels30/d1sena_c.47.1.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:49 2023
+# [ok]

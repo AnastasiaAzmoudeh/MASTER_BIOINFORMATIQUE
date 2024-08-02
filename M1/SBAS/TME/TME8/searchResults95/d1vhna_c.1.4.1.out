@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1ofda2c.1.4.1       -            809 d1vhna_c.1.4.1.aln   -            385  3.4e-201  663.6   0.1   1   1  4.5e-203  4.4e-201  663.2   0.1     1   385   259   776   259   776 1.00 -
+d1vyra_c.1.4.1       -            363 d1vhna_c.1.4.1.aln   -            385   5.2e-64  212.0   0.0   1   1   5.8e-66   5.7e-64  211.8   0.0     2   380     2   359     1   363 0.94 -
+d2e6fa_c.1.4.1       -            312 d1vhna_c.1.4.1.aln   -            385   1.1e-60  201.1   0.0   1   1   1.2e-62   1.2e-60  200.9   0.0    54   381     3   311     1   312 0.96 -
+d1p4ca_c.1.4.1       -            353 d1vhna_c.1.4.1.aln   -            385   4.9e-48  159.4   0.0   1   1   5.5e-50   5.5e-48  159.2   0.0    22   381     1   351     1   353 0.96 -
+d1djqa1c.1.4.1       -            340 d1vhna_c.1.4.1.aln   -            385   9.7e-44  145.2   0.0   1   1   1.1e-45   1.1e-43  145.0   0.0     5   359     5   337     1   340 0.94 -
+d1ep3a_c.1.4.1       -            311 d1vhna_c.1.4.1.aln   -            385   6.7e-35  116.2   0.0   1   1   7.4e-37   7.3e-35  116.0   0.0    50   381     3   308     1   311 0.97 -
+d1gtea2c.1.4.1       -            312 d1vhna_c.1.4.1.aln   -            385   3.6e-34  113.8   0.0   1   1     4e-36   3.9e-34  113.6   0.0    55   369     2   311     1   312 0.94 -
+d1p0ka_c.1.4.1       -            329 d1vhna_c.1.4.1.aln   -            385   7.3e-34  112.7   0.5   1   1     9e-36   8.9e-34  112.5   0.5    58   379     3   305     1   310 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels95/d1vhna_c.1.4.1.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels95/d1vhna_c.1.4.1.out -E 1 hmmModels95/d1vhna_c.1.4.1.hmm scop/scopTestSeq.fasta 
+# Current dir:     /users/nfs/Etu7/3801677/SBAS/TME8
+# Date:            Tue Apr  4 15:54:07 2023
+# [ok]

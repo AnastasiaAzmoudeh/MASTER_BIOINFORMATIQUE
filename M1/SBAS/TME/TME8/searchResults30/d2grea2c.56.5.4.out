@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+d1r3na1c.56.5.4      -            323 d2grea2c.56.5.4.aln  -            279  8.6e-108  355.1   0.0   1   1  1.2e-109  9.7e-108  355.0   0.0     2   279    12   318    11   318 0.99 -
+d1rtqa_c.56.5.4      -            291 d2grea2c.56.5.4.aln  -            279   1.8e-95  314.7   0.5   1   1   2.6e-97     2e-95  314.5   0.5     1   279    18   286    18   286 0.99 -
+d1y7ea2c.56.5.4      -            323 d2grea2c.56.5.4.aln  -            279     3e-95  314.0   0.2   1   1   4.3e-97   3.4e-95  313.8   0.2     2   278    16   314    15   315 0.99 -
+d1z2la1c.56.5.4      -            294 d2grea2c.56.5.4.aln  -            279   1.3e-93  308.7   0.0   1   1   1.8e-95   1.4e-93  308.5   0.0     5   279     1   294     1   294 0.99 -
+d1fnoa4c.56.5.4      -            296 d2grea2c.56.5.4.aln  -            279   6.5e-83  273.5   0.0   1   1   9.1e-85   7.2e-83  273.4   0.0     1   278     2   295     2   296 0.99 -
+d1tkja_c.56.5.4      -            277 d2grea2c.56.5.4.aln  -            279   2.9e-82  271.4   0.0   1   1   4.1e-84   3.3e-82  271.2   0.0     6   278     3   276     1   277 0.98 -
+d1lfwa1c.56.5.4      -            273 d2grea2c.56.5.4.aln  -            279   5.8e-77  254.0   0.1   1   1   8.2e-79   6.5e-77  253.8   0.1     1   278     1   272     1   273 0.99 -
+d1cg2a1c.56.5.4      -            277 d2grea2c.56.5.4.aln  -            279   3.6e-74  244.8   0.3   1   1   5.1e-76     4e-74  244.7   0.3     3   277     2   274     1   276 0.99 -
+d1vgya1c.56.5.4      -            263 d2grea2c.56.5.4.aln  -            279   1.7e-71  236.1   0.0   1   1   2.3e-73   1.9e-71  235.9   0.0     5   275     2   262     1   263 0.99 -
+d1y0ya3c.56.5.4      -            256 d2grea2c.56.5.4.aln  -            279   2.8e-67  222.2   0.2   1   1     4e-69   3.1e-67  222.1   0.2     7   277     2   255     1   256 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      hmmModels30/d2grea2c.56.5.4.hmm
+# Target file:     scop/scopTestSeq.fasta
+# Option settings: hmmsearch --domtblout hmmModels30/d2grea2c.56.5.4.out -E 1 hmmModels30/d2grea2c.56.5.4.hmm scop/scopTestSeq.fasta 
+# Current dir:     /home/anastasia/SBAS/TME8
+# Date:            Sat Apr  8 15:33:54 2023
+# [ok]
